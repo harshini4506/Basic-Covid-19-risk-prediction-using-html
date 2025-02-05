@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Risk Prediction Form</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap">
+    <link rel="stylesheet" href="front.css"> <!-- Ensure this CSS file is in the same directory -->
+
+    <style>
+        #graphContainer {
+            display: flex;
+            flex-wrap: wrap; /* Allow images to wrap to the next line */
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        /* Initially hidden and sized to fit container */
+        .graph-image {
+            display: none;
+            width: 100%;
+            max-height: 500px;
+            object-fit: contain;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+
+        /* Fullscreen styling for images */
+        .graph-image.fullscreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            object-fit: contain;
+            z-index: 1000;
+            background-color: rgba(0, 0, 0, 0.9);
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <div class="form-box">
+            <h2>COVID-19 Risk Prediction</h2>
+            <form id="riskForm" action="result.html" method="GET" onsubmit="return validateForm()">
+                <div class="input-box">
+                    <input type="number" name="age" required>
+                    <label>Age</label>
+                </div>
+                <div class="input-box">
+                    <select name="blood_group" id="blood_group" required>
+                        <option value="" disabled selected>Select Blood Group</option>
+                        <option value="A+">A+</option>
+                        <option value="A-">A-</option>
+                        <option value="B+">B+</option>
+                        <option value="B-">B-</option>
+                        <option value="AB+">AB+</option>
+                        <option value="AB-">AB-</option>
+                        <option value="O+">O+</option>
+                        <option value="O-">O-</option>
+                    </select>
+                </div>
+                <div class="input-box">
+                    <input type="text" name="symptoms" required>
+                    <label>Symptoms</label>
+                </div>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+        
+        <!-- Previous Data Selection Form -->
+        <div class="previous-data-container">
+            <h2>Previous Data Selection</h2>
+            <form id="previousDataForm">
+                <label for="data-selection">Select Data Attribute:</label>
+                <select name="data_attribute" id="data-selection" required>
+                    <option value="age">Age</option>
+                    <option value="blood_group">Blood Group Affected</option>
+                    <option value="confirmed_cases">Confirmed Cases</option>
+                    <option value="death_cases">Death Cases</option>
+                    <option value="recovery">Recovery Cases</option>
+                    <option value="active_cases">Active Cases</option>
+                    <option value="new_cases">New Cases</option>
+                    <option value="organ_affected">Organ Affected</option>
+                    <option value="symptoms">Symptoms</option>
+                    <option value="vaccines_side_effects">Vaccines Side Effects</option>
+                    <option value="vaccines_used_more">Vaccines Used More</option> <!-- Added option -->
+                </select>
+                <button type="submit" class="submit-btn">Get Data</button>
+            </form>
+        </div>
+
+        <!-- Space to display the images -->
+        <div id="graphContainer">
+            <img id="confirmedCasesImage" class="graph-image" src="confirmed_cases_graph.png" alt="Confirmed Cases Graph" />
+            <img id="bloodGroupImage" class="graph-image" src="blood_group_affected_graph.png" alt="Blood Group Affected Graph" />
+            <img id="ageGroupImage" class="graph-image" src="age_group_confirmed_cases_graph.png" alt="Age Group Confirmed Cases Graph" />
+            <img id="deathCasesImage" class="graph-image" src="death_cases_by_age_graph.png" alt="Death Cases by Age Group Graph" />
+            <img id="recoveredCasesImage" class="graph-image" src="recovered_cases_age_group_20_49_graph.png" alt="Recovered Cases for Age Group 20 to 49 Graph" />
+            <img id="vaccinesUsedMoreImage" class="graph-image" src="vaccine_usage_graph.png" alt="Vaccines Used More Graph" />
+            <img id="vaccineSideEffectsImage" class="graph-image" src="vaccine_side_effects_graph.png" alt="Vaccine Side Effects Graph" />
+            <img id="symptomPrevalenceImage" class="graph-image" src="symptom_prevalence_graph.png" alt="Symptom Prevalence Graph" />
+            <img id="newCasesImage" class="graph-image" src="new_cases_graph.png" alt="New Cases Graph" />
+            <img id="affectedOrgansImage" class="graph-image" src="affected_organs_graph.png" alt="Affected Organs Graph" />
+            <img id="activeCasesImage" class="graph-image" src="active_cases_by_age_group_graph.png" alt="Active Cases by Age Group Graph" />
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const images = {
+                confirmed_cases: document.getElementById("confirmedCasesImage"),
+                blood_group: document.getElementById("bloodGroupImage"),
+                age: document.getElementById("ageGroupImage"),
+                death_cases: document.getElementById("deathCasesImage"),
+                recovery: document.getElementById("recoveredCasesImage"),
+                vaccines_used_more: document.getElementById("vaccinesUsedMoreImage"),
+                vaccines_side_effects: document.getElementById("vaccineSideEffectsImage"),
+                symptoms: document.getElementById("symptomPrevalenceImage"),
+                new_cases: document.getElementById("newCasesImage"),
+                organ_affected: document.getElementById("affectedOrgansImage"),
+                active_cases: document.getElementById("activeCasesImage") // Corrected this line
+            };
+
+            // Hide all images initially
+            Object.values(images).forEach(img => img.style.display = "none");
+
+            // Form submission handling
+            document.getElementById("previousDataForm").addEventListener("submit", function(event) {
+                event.preventDefault();
+                const selectedValue = document.getElementById("data-selection").value;
+
+                // Hide all images, then display the selected one
+                Object.values(images).forEach(img => img.style.display = "none");
+                if (images[selectedValue]) images[selectedValue].style.display = "block";
+            });
+
+            // Fullscreen functionality
+            Object.values(images).forEach(img => {
+                img.addEventListener('click', function() {
+                    this.classList.toggle('fullscreen');
+                });
+            });
+        });
+
+        function validateForm() {
+            // You can add validation logic here if needed
+            return true;
+        }
+    </script>
+</body>
+</html>

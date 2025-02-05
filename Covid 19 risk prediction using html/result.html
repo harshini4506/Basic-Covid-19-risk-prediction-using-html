@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Risk Prediction Result</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap">
+    <link rel="stylesheet" href="front.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+            text-align: center;
+            font-family: 'Poppins', sans-serif;
+        }
+        .result-container {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+            max-width: 500px;
+            width: 100%;
+            overflow-y: auto;
+            max-height: 90vh; /* Make it scrollable for long content */
+        }
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+        h3 {
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            font-size: 1rem;
+            background: rgba(255, 255, 255, 0.3);
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        .precautions, .vaccine-info, .side-effects, .future-attack, .future-precautions, .organs-affected {
+            margin-top: 20px;
+        }
+        .submit-btn {
+            padding: 10px;
+            background-color: #ff9b44;
+            color: #fff;
+            border: none;
+            border-radius: 25px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-top: 20px;
+        }
+        .submit-btn:hover {
+            background-color: #ff5e00;
+        }
+        /* Style for future precautions section */
+        .future-precautions ul {
+            background-color: rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .future-precautions ul li {
+            background-color: rgba(255, 255, 255, 0.3);
+            color: white;
+            font-size: 1rem;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 8px;
+            transition: transform 0.2s ease;
+        }
+        .future-precautions ul li:hover {
+            transform: scale(1.05);
+            background-color: rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container" id="resultContainer">
+        <h2 id="resultTitle">COVID-19 Risk Prediction Result</h2>
+        <p id="riskMessage"></p>
+        <p id="riskPercentage"></p>
+        <div class="precautions" id="precautions"></div>
+        <div class="vaccine-info" id="vaccineInfo"></div>
+        <div class="side-effects" id="sideEffects"></div>
+        <div class="future-attack" id="futureAttack"></div>
+        <div class="future-precautions" id="futurePrecautions"></div>
+        <div class="organs-affected" id="organsAffected"></div> <!-- Affected organs section -->
+        <button class="submit-btn" onclick="goBack()">Go Back</button>
+    </div>
+
+    <script>
+        function getPrediction() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const age = parseInt(urlParams.get('age'));
+            const symptoms = urlParams.get('symptoms').toLowerCase();
+
+            let riskScore = 0;
+            let precautions = "";
+            let affectedOrgans = [];
+            let vaccine = "";
+            let vaccineSideEffects = "";
+            let futureAttackChance = "";
+
+            // Basic risk assessment based on age
+            if (age < 20) {
+                riskScore += 10;
+            } else if (age < 40) {
+                riskScore += 20;
+            } else if (age < 60) {
+                riskScore += 30;
+            } else {
+                riskScore += 40;
+            }
+
+            // Assess risk based on symptoms
+            if (symptoms.includes("fever")) riskScore += 30;
+            if (symptoms.includes("cough")) riskScore += 30;
+            if (symptoms.includes("difficulty breathing")) riskScore += 40;
+            if (symptoms.includes("fatigue")) riskScore += 20;
+
+            // Risk percentage
+            const riskPercentage = Math.min(riskScore, 100);
+            document.getElementById("riskPercentage").innerText = `Your risk level is ${riskPercentage}%.`;
+
+            // Determine if the user is likely suffering from COVID-19
+            if (riskPercentage > 50) {
+                document.getElementById("riskMessage").innerText = "You are at high risk of having COVID-19.";
+                precautions = `
+                    <h3>Precautions:</h3>
+                    <ul>
+                        <li>Stay home and isolate yourself.</li>
+                        <li>Wear a mask when around others.</li>
+                        <li>Practice good hand hygiene.</li>
+                        <li>Monitor your symptoms closely.</li>
+                    </ul>`;
+                affectedOrgans.push("Lungs", "Heart", "Kidneys", "Liver");
+                vaccine = "Pfizer";
+                vaccineSideEffects = `
+                    <ul>
+                        <li>Pain at the injection site.</li>
+                        <li>Fatigue.</li>
+                        <li>Headache.</li>
+                        <li>Muscle pain.</li>
+                    </ul>`;
+                futureAttackChance = "There is a moderate chance of contracting COVID-19 again in the future, but vaccination significantly reduces this risk.";
+            } else {
+                document.getElementById("riskMessage").innerText = "You are at low risk of having COVID-19.";
+                precautions = `
+                    <h3>Keep Monitoring:</h3>
+                    <ul>
+                        <li>Continue to monitor your health.</li>
+                        <li>Maintain good hygiene practices.</li>
+                        <li>Stay informed about COVID-19 updates.</li>
+                    </ul>`;
+                affectedOrgans.push("Lungs", "Heart"); // Fewer affected organs for lower risk
+                vaccine = "Moderna";
+                vaccineSideEffects = `
+                    <ul>
+                        <li>Mild fever.</li>
+                        <li>Chills.</li>
+                        <li>Swelling at the injection site.</li>
+                    </ul>`;
+                futureAttackChance = "Your chances of contracting COVID-19 in the future are low, especially with proper vaccination.";
+            }
+
+            // Display precautions
+            document.getElementById("precautions").innerHTML = precautions;
+
+            // Display vaccine information
+            document.getElementById("vaccineInfo").innerHTML = `
+                <h3>Recommended Vaccine: ${vaccine}</h3>`;
+
+            // Display side effects of the recommended vaccine
+            document.getElementById("sideEffects").innerHTML = `
+                <h3>Vaccine Side Effects:</h3>
+                ${vaccineSideEffects}`;
+
+            // Display future chances of COVID-19 attack
+            document.getElementById("futureAttack").innerHTML = `
+                <h3>Future Chances of COVID-19 Attack:</h3>
+                <p>${futureAttackChance}</p>`;
+
+            // Display affected organs
+            if (affectedOrgans.length > 0) {
+                document.getElementById("organsAffected").innerHTML = `
+                    <h3>Organs Most Likely Affected:</h3>
+                    <ul>
+                        ${affectedOrgans.map(organ => `<li>${organ}</li>`).join('')}
+                    </ul>`;
+            } else {
+                document.getElementById("organsAffected").innerHTML = `
+                    <h3>No specific organs are likely affected.</h3>`;
+            }
+
+            // Display future precautions
+            const futurePrecautions = `
+                <h3>Precautions to Avoid Future COVID-19 Infection:</h3>
+                <ul>
+                    <li>Get vaccinated with the recommended vaccines.</li>
+                    <li>Avoid crowded places and maintain social distancing.</li>
+                    <li>Wash your hands frequently with soap and water.</li>
+                    <li>Use hand sanitizers when soap is not available.</li>
+                    <li>Stay updated with health guidelines from local authorities.</li>
+                </ul>`;
+            document.getElementById("futurePrecautions").innerHTML = futurePrecautions;
+        }
+
+        function goBack() {
+            window.history.back();
+        }
+
+        // Call the function to get the prediction on page load
+        window.onload = getPrediction;
+    </script>
+</body>
+</html>

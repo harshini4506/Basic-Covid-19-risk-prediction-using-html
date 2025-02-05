@@ -1,0 +1,1001 @@
+Country,Confirmed Cases,Deaths,Recovered,Active,New Cases,New Deaths,New Recoveries,WHO Region,Age,Blood Group,Blood Group Affected More,Organ Affected,Age Group Affected,Symptoms,Vaccine
+France,834991,30792,363608,440591,664,29,68,Americas,97,O,A,Kidney,51-65,"Headache, Fatigue",J&J
+Russia,65391,326,63850,1215,367,8,196,Western Pacific,11,AB,A,Lungs,19-35,"Cough, Loss of taste, Fatigue",Pfizer
+France,797633,12625,218620,566388,358,4,337,Western Pacific,24,B,B,Lungs,66+,"Cough, Fatigue, Headache",AstraZeneca
+UK,439266,36700,380626,21940,805,18,291,Eastern Mediterranean,29,B,O,Liver,66+,Headache,AstraZeneca
+Spain,872822,60959,318782,493081,117,9,73,Western Pacific,81,A,AB,Heart,66+,"Fever, Breathlessness",Moderna
+USA,36106,930,11682,23494,67,1,24,Europe,99,B,B,Heart,36-50,"Headache, Loss of taste, Fatigue",AstraZeneca
+France,505491,45114,207351,253026,836,27,785,South-East Asia,30,AB,O,Heart,0-18,"Fever, Cough, Fatigue",Sputnik V
+Spain,153091,3504,87530,62057,86,6,77,Eastern Mediterranean,24,AB,O,Liver,19-35,Cough,AstraZeneca
+India,913484,76894,307114,529476,28,0,21,Eastern Mediterranean,17,O,B,Heart,19-35,"Cough, Fever",Moderna
+India,235250,15984,134421,84845,575,28,45,South-East Asia,64,A,A,Liver,66+,"Headache, Fatigue, Loss of taste",Moderna
+Russia,236918,634,76488,159796,95,2,19,South-East Asia,19,B,B,Liver,0-18,"Cough, Breathlessness",Pfizer
+UK,451739,16030,223069,212640,632,33,155,Western Pacific,23,B,B,Brain,36-50,"Cough, Fatigue, Breathlessness",J&J
+Spain,768972,56427,630549,81996,32,0,27,Eastern Mediterranean,79,O,O,Liver,66+,"Loss of taste, Breathlessness",J&J
+UK,47144,4693,4149,38302,166,1,154,Western Pacific,78,B,B,Liver,51-65,"Cough, Headache, Breathlessness",J&J
+Mexico,669691,3576,641809,24306,547,11,496,Americas,68,B,AB,Liver,0-18,"Headache, Fever, Fatigue",J&J
+USA,869808,78364,708999,82445,358,3,100,Americas,92,B,AB,Heart,51-65,"Headache, Cough, Loss of taste",Pfizer
+Spain,41371,3367,19092,18912,615,61,416,Africa,5,O,O,Brain,66+,"Fatigue, Cough",Sputnik V
+India,777727,9941,662413,105373,949,57,43,Africa,52,B,AB,Lungs,51-65,Fever,Pfizer
+Brazil,917711,24596,542726,350389,491,42,437,Europe,46,A,B,Liver,66+,"Headache, Loss of taste, Breathlessness",Moderna
+France,799703,11119,78205,710379,139,0,97,Western Pacific,97,AB,O,Heart,51-65,Cough,AstraZeneca
+Brazil,607921,30736,8295,568890,975,8,551,Africa,48,B,AB,Kidney,66+,Loss of taste,Pfizer
+USA,929336,26041,793868,109427,368,27,183,Europe,42,AB,A,Heart,51-65,Fatigue,J&J
+Russia,159364,2045,29578,127741,813,62,111,Eastern Mediterranean,40,A,AB,Kidney,19-35,"Headache, Breathlessness, Loss of taste",Moderna
+Brazil,609136,39130,284971,285035,543,7,73,Africa,0,AB,O,Kidney,51-65,"Fever, Cough, Loss of taste",J&J
+India,856679,35453,4985,816241,598,42,414,Western Pacific,0,AB,B,Kidney,36-50,Headache,AstraZeneca
+UK,697491,26433,444413,226645,89,5,77,Americas,52,O,A,Brain,0-18,Loss of taste,AstraZeneca
+France,106052,2474,50044,53534,908,18,852,Europe,68,O,B,Brain,36-50,"Breathlessness, Fatigue, Fever",Sputnik V
+France,517946,37916,425267,54763,506,18,315,South-East Asia,4,O,A,Brain,36-50,Loss of taste,Moderna
+UK,961473,72458,140839,748176,875,76,161,Europe,21,O,B,Lungs,19-35,"Headache, Cough, Fever",Moderna
+USA,472400,17791,97591,357018,651,4,472,Americas,39,O,B,Liver,19-35,Fever,J&J
+India,306579,7874,231361,67344,862,1,605,Africa,16,O,O,Liver,51-65,"Fever, Cough",Pfizer
+India,915493,34103,416547,464843,892,81,139,South-East Asia,10,A,A,Kidney,66+,"Cough, Headache, Fatigue",Sputnik V
+Spain,844249,39752,633542,170955,304,19,49,Europe,77,B,A,Heart,66+,Breathlessness,Moderna
+Spain,348356,19389,322367,6600,559,6,318,Europe,78,AB,B,Heart,66+,"Fatigue, Cough",Moderna
+UK,695755,24308,152668,518779,403,10,226,Eastern Mediterranean,22,A,B,Heart,19-35,"Fatigue, Loss of taste, Fever",Moderna
+Russia,529231,46064,169015,314152,789,49,26,Europe,67,AB,O,Liver,36-50,Loss of taste,Pfizer
+UK,610393,59257,268678,282458,515,48,294,Americas,77,O,O,Lungs,36-50,Fatigue,Pfizer
+India,982478,44178,501295,437005,240,23,90,Africa,40,B,A,Lungs,66+,"Headache, Cough",J&J
+USA,80037,577,35857,43603,373,6,116,Eastern Mediterranean,56,B,A,Lungs,51-65,"Breathlessness, Fever",Moderna
+USA,438777,26177,249695,162905,156,10,136,Africa,20,A,AB,Heart,36-50,"Headache, Loss of taste",Sputnik V
+Italy,871346,44420,274918,552008,526,19,148,Europe,46,B,B,Lungs,51-65,"Fatigue, Loss of taste, Headache",Sputnik V
+France,720600,38525,12931,669144,646,52,493,Europe,37,O,B,Liver,66+,Fever,Pfizer
+Germany,330345,24118,227672,78555,691,11,85,Western Pacific,18,O,B,Lungs,36-50,"Cough, Headache, Breathlessness",Moderna
+Spain,105493,8364,48963,48166,664,41,613,Eastern Mediterranean,3,B,O,Liver,0-18,"Breathlessness, Loss of taste, Cough",AstraZeneca
+Brazil,264372,10008,110670,143694,442,0,148,South-East Asia,23,AB,B,Liver,0-18,"Loss of taste, Fever, Breathlessness",AstraZeneca
+Italy,105570,1550,34936,69084,454,4,347,Western Pacific,47,B,O,Kidney,19-35,Fatigue,AstraZeneca
+Germany,758380,46170,537837,174373,208,16,39,South-East Asia,84,O,AB,Kidney,19-35,"Cough, Fatigue",Sputnik V
+USA,104946,5185,52762,46999,461,12,79,Americas,62,B,AB,Brain,0-18,"Headache, Fever, Loss of taste",AstraZeneca
+Brazil,937442,30994,712213,194235,696,56,113,Africa,98,O,AB,Brain,51-65,"Breathlessness, Headache, Fever",J&J
+Germany,992330,81320,732048,178962,655,25,432,Europe,42,AB,B,Kidney,66+,"Loss of taste, Headache",Moderna
+Mexico,151578,11037,29281,111260,53,0,20,Western Pacific,72,O,A,Kidney,36-50,"Cough, Fever",Moderna
+Mexico,279560,14456,79319,185785,12,1,2,Eastern Mediterranean,34,A,AB,Kidney,19-35,Fever,Sputnik V
+Russia,70677,4169,43236,23272,777,64,700,Eastern Mediterranean,91,O,A,Lungs,66+,"Cough, Loss of taste",J&J
+Russia,676560,21332,563890,91338,147,0,36,Western Pacific,39,AB,A,Kidney,66+,"Fatigue, Headache",AstraZeneca
+Spain,605860,42873,70504,492483,465,39,136,Americas,24,B,B,Lungs,51-65,"Fatigue, Fever",Moderna
+Brazil,767907,43344,562493,162070,566,53,230,Western Pacific,45,B,AB,Heart,0-18,Loss of taste,AstraZeneca
+USA,411185,15721,320630,74834,851,63,558,Americas,2,A,A,Heart,19-35,Loss of taste,Sputnik V
+Spain,751642,25527,292826,433289,434,15,135,South-East Asia,40,AB,O,Liver,51-65,"Headache, Fever",J&J
+India,538700,51560,316200,170940,608,27,73,Americas,9,AB,AB,Kidney,36-50,Breathlessness,Sputnik V
+Germany,559893,3776,179337,376780,806,59,741,South-East Asia,8,A,B,Brain,66+,Breathlessness,Pfizer
+USA,336914,9049,316620,11245,571,57,336,Eastern Mediterranean,40,B,AB,Heart,66+,Headache,Pfizer
+Germany,383957,33325,172069,178563,411,40,74,Americas,45,AB,A,Brain,51-65,Headache,Pfizer
+India,708043,68299,265489,374255,507,19,65,South-East Asia,10,AB,B,Brain,51-65,"Cough, Fever, Fatigue",AstraZeneca
+Italy,753425,32874,28654,691897,904,15,75,Americas,57,A,AB,Heart,0-18,Fatigue,AstraZeneca
+Spain,28175,769,4741,22665,326,14,66,Western Pacific,87,A,AB,Heart,36-50,Fatigue,Pfizer
+Mexico,905142,29220,512781,363141,584,48,101,South-East Asia,45,A,A,Heart,66+,Breathlessness,Sputnik V
+Mexico,842613,13716,306448,522449,26,0,19,Americas,62,O,O,Kidney,36-50,"Cough, Fever",Sputnik V
+India,928920,84992,710093,133835,539,35,376,Europe,87,AB,B,Lungs,0-18,"Fever, Loss of taste, Fatigue",Pfizer
+Mexico,383073,20815,346518,15740,588,5,58,Africa,40,A,AB,Liver,0-18,Loss of taste,J&J
+Spain,273868,23924,54680,195264,763,2,127,Eastern Mediterranean,34,B,B,Kidney,19-35,"Fatigue, Breathlessness, Fever",Sputnik V
+Brazil,258432,12055,202016,44361,490,5,147,Europe,96,B,A,Lungs,66+,"Fever, Fatigue",Sputnik V
+UK,196617,19200,84094,93323,47,1,9,Africa,69,B,B,Heart,36-50,"Fever, Fatigue",Sputnik V
+Mexico,488180,14474,446217,27489,165,9,55,Africa,40,AB,AB,Kidney,36-50,"Headache, Cough",Sputnik V
+Spain,216481,21078,60884,134519,384,16,155,Europe,2,B,A,Heart,51-65,"Breathlessness, Fatigue, Cough",J&J
+Russia,502763,15990,193459,293314,993,27,502,Europe,34,A,AB,Kidney,0-18,"Breathlessness, Cough",AstraZeneca
+India,866209,69343,285891,510975,602,5,187,Americas,11,B,B,Brain,66+,"Loss of taste, Fatigue",AstraZeneca
+India,168791,8547,150895,9349,996,67,146,Africa,16,AB,B,Kidney,0-18,"Fever, Breathlessness",Moderna
+France,561052,14841,348671,197540,971,71,612,Eastern Mediterranean,8,O,A,Heart,0-18,"Headache, Loss of taste",Moderna
+France,171279,3659,51768,115852,212,16,147,South-East Asia,82,AB,AB,Lungs,51-65,"Loss of taste, Fever",Sputnik V
+France,822858,1986,715066,105806,244,6,113,South-East Asia,72,O,A,Brain,19-35,"Cough, Fatigue, Headache",AstraZeneca
+Mexico,162821,9919,67344,85558,77,5,4,Western Pacific,40,O,B,Kidney,0-18,"Cough, Fever, Loss of taste",Moderna
+Spain,371754,4009,1578,366167,196,18,23,Europe,81,B,A,Lungs,66+,"Breathlessness, Cough",Sputnik V
+India,810323,31274,544519,234530,953,28,216,South-East Asia,83,A,O,Heart,36-50,"Loss of taste, Breathlessness",Sputnik V
+Mexico,883087,17305,142399,723383,606,15,178,Europe,79,B,O,Kidney,66+,"Fever, Cough",Sputnik V
+Italy,890857,70351,599635,220871,628,0,437,Western Pacific,78,AB,AB,Heart,51-65,"Fever, Breathlessness, Cough",Sputnik V
+Germany,709993,46360,477147,186486,752,68,730,Western Pacific,84,AB,A,Lungs,0-18,Headache,AstraZeneca
+Italy,129538,8416,53796,67326,614,40,471,Americas,81,AB,B,Heart,51-65,"Cough, Breathlessness, Loss of taste",Sputnik V
+Spain,285338,26347,200042,58949,427,24,110,Western Pacific,98,A,O,Liver,51-65,Fever,Moderna
+France,515264,41548,423239,50477,581,4,228,Africa,81,AB,A,Kidney,36-50,"Cough, Breathlessness, Headache",J&J
+Spain,968583,68998,275412,624173,825,17,648,Western Pacific,90,AB,AB,Brain,0-18,"Cough, Breathlessness",J&J
+India,531749,42034,302787,186928,778,2,112,Africa,77,A,AB,Liver,51-65,Fatigue,AstraZeneca
+Russia,657772,22427,301965,333380,520,30,500,Americas,53,B,A,Heart,0-18,Headache,Pfizer
+Italy,39333,2929,27133,9271,915,90,229,Eastern Mediterranean,92,O,AB,Heart,51-65,"Fever, Fatigue, Loss of taste",Pfizer
+Germany,250936,2907,210692,37337,75,0,0,Africa,13,A,B,Heart,36-50,Breathlessness,Sputnik V
+Brazil,583370,10637,500840,71893,608,49,540,Africa,30,A,B,Liver,19-35,"Loss of taste, Fatigue",AstraZeneca
+UK,221340,2666,8445,210229,474,46,394,South-East Asia,24,O,AB,Heart,66+,"Cough, Fatigue",Moderna
+Brazil,731455,68296,140458,522701,742,2,15,Western Pacific,16,B,B,Liver,0-18,Loss of taste,J&J
+Germany,656037,54069,3926,598042,977,18,223,South-East Asia,98,O,O,Kidney,66+,"Fatigue, Loss of taste, Headache",J&J
+Italy,485765,2098,294551,189116,84,1,70,Americas,82,B,B,Heart,19-35,"Fever, Breathlessness",J&J
+Italy,618049,17790,484168,116091,433,19,128,Americas,91,O,O,Liver,66+,Loss of taste,AstraZeneca
+France,346987,14286,317935,14766,77,2,28,Americas,73,A,O,Liver,36-50,"Headache, Breathlessness, Cough",Moderna
+USA,193111,18505,76725,97881,57,3,20,Eastern Mediterranean,52,AB,O,Lungs,66+,"Headache, Fever",Pfizer
+Spain,638549,55489,424275,158785,452,37,424,South-East Asia,93,B,B,Liver,51-65,"Headache, Fatigue, Breathlessness",J&J
+USA,36918,2179,7751,26988,265,15,66,Europe,8,AB,AB,Kidney,66+,"Fatigue, Loss of taste, Breathlessness",J&J
+Germany,787943,48097,166365,573481,962,40,480,South-East Asia,34,B,AB,Kidney,0-18,Headache,Pfizer
+Russia,576752,34207,188505,354040,49,4,9,Americas,22,A,B,Kidney,51-65,"Loss of taste, Headache",Moderna
+Mexico,620372,35997,82901,501474,837,83,607,Americas,43,B,O,Brain,51-65,Loss of taste,Moderna
+Russia,98632,3679,30696,64257,327,28,73,Africa,98,O,O,Heart,66+,"Breathlessness, Cough, Headache",Sputnik V
+Spain,151465,9398,124717,17350,691,24,366,Western Pacific,45,B,A,Lungs,51-65,Cough,Moderna
+Italy,490533,48971,198282,243280,697,19,78,Americas,29,AB,A,Liver,19-35,"Headache, Fever",Sputnik V
+USA,491197,48188,89682,353327,508,1,140,Western Pacific,94,O,A,Heart,0-18,Breathlessness,Sputnik V
+Mexico,793585,11865,385241,396479,13,0,13,South-East Asia,16,O,O,Heart,0-18,Loss of taste,AstraZeneca
+Germany,277791,4025,257652,16114,877,56,620,Europe,46,AB,B,Kidney,66+,"Breathlessness, Fever",Sputnik V
+Mexico,554274,5984,205587,342703,987,35,379,Africa,100,O,O,Liver,19-35,"Fever, Breathlessness",Sputnik V
+Italy,110575,8695,70446,31434,942,35,529,South-East Asia,90,A,A,Kidney,66+,"Loss of taste, Headache, Breathlessness",Sputnik V
+Mexico,597137,14122,243809,339206,47,3,12,Eastern Mediterranean,23,AB,A,Brain,36-50,Breathlessness,AstraZeneca
+Russia,250033,15347,151747,82939,849,33,325,Western Pacific,87,B,O,Lungs,36-50,Fever,Moderna
+Brazil,864842,30301,343309,491232,952,94,849,Americas,51,A,A,Brain,0-18,"Breathlessness, Cough",AstraZeneca
+USA,426413,41208,369323,15882,105,10,35,Europe,61,A,AB,Liver,51-65,Cough,Pfizer
+India,144659,8855,48024,87780,95,1,38,Africa,3,AB,O,Heart,36-50,"Fever, Breathlessness, Headache",Pfizer
+India,561954,10139,478694,73121,538,27,408,Eastern Mediterranean,9,AB,B,Lungs,51-65,"Fever, Headache",J&J
+France,395760,22838,348291,24631,825,27,453,Western Pacific,50,O,AB,Lungs,0-18,"Headache, Fever, Loss of taste",Pfizer
+Germany,221681,3147,139965,78569,461,12,96,Americas,82,A,B,Lungs,51-65,Fever,Sputnik V
+UK,168594,10259,28946,129389,970,30,805,Africa,38,A,A,Liver,19-35,Fever,Sputnik V
+France,953374,198,854970,98206,308,21,61,Americas,9,A,AB,Kidney,0-18,"Loss of taste, Headache, Cough",Sputnik V
+UK,960215,93505,313358,553352,947,69,54,Europe,20,A,B,Liver,19-35,"Headache, Breathlessness",Moderna
+Spain,921081,6876,803114,111091,894,33,192,Africa,22,A,A,Lungs,66+,"Headache, Breathlessness",Pfizer
+USA,681864,33547,429529,218788,115,11,39,Eastern Mediterranean,45,AB,A,Liver,66+,"Fatigue, Loss of taste, Fever",Sputnik V
+Italy,662875,22531,263123,377221,490,26,484,Eastern Mediterranean,53,AB,O,Kidney,19-35,Cough,Pfizer
+Brazil,944788,41920,494952,407916,670,45,589,South-East Asia,5,AB,O,Kidney,51-65,"Headache, Fever, Cough",Pfizer
+Brazil,240567,18038,164595,57934,77,5,77,Eastern Mediterranean,61,B,O,Heart,51-65,"Fatigue, Breathlessness, Loss of taste",AstraZeneca
+Italy,25119,1937,12883,10299,990,25,788,Eastern Mediterranean,90,AB,B,Kidney,66+,Headache,J&J
+Spain,213884,17680,7615,188589,3,0,1,South-East Asia,75,A,A,Brain,51-65,"Cough, Breathlessness, Loss of taste",Moderna
+UK,840102,11831,196757,631514,23,0,20,Americas,52,B,AB,Lungs,51-65,"Fatigue, Headache, Fever",Sputnik V
+Italy,821616,17392,86065,718159,607,48,166,Western Pacific,54,AB,AB,Heart,66+,"Breathlessness, Fatigue, Fever",Sputnik V
+Germany,622763,36295,457522,128946,12,1,7,South-East Asia,41,A,O,Brain,0-18,"Loss of taste, Cough, Fatigue",J&J
+USA,23003,446,298,22259,333,18,158,Eastern Mediterranean,27,A,B,Heart,51-65,"Headache, Cough, Breathlessness",Pfizer
+Italy,628459,19535,595120,13804,109,0,44,Europe,100,O,B,Heart,19-35,"Fatigue, Breathlessness",Sputnik V
+France,851746,65425,95962,690359,26,2,21,Africa,19,B,O,Heart,36-50,"Fatigue, Fever",Sputnik V
+UK,841407,75588,409497,356322,38,1,20,Western Pacific,20,AB,O,Lungs,66+,"Fatigue, Headache",Pfizer
+Germany,993231,35982,525655,431594,41,1,8,Eastern Mediterranean,19,O,B,Kidney,36-50,"Cough, Fever, Breathlessness",Sputnik V
+India,249561,848,212971,35742,602,16,63,Europe,9,A,A,Brain,19-35,"Fever, Fatigue",Moderna
+Brazil,695136,51403,310352,333381,234,4,100,Americas,67,AB,B,Liver,51-65,Breathlessness,AstraZeneca
+France,862345,39509,335250,487586,544,5,71,South-East Asia,82,A,A,Kidney,36-50,"Breathlessness, Fatigue",Sputnik V
+USA,140860,11319,4420,125121,307,9,291,South-East Asia,35,O,A,Heart,0-18,Fever,Moderna
+Mexico,361965,28549,27698,305718,850,9,186,Eastern Mediterranean,55,A,O,Brain,0-18,"Cough, Loss of taste, Headache",Sputnik V
+Brazil,777970,66079,643264,68627,795,53,385,Americas,19,O,A,Heart,66+,"Loss of taste, Fever",AstraZeneca
+Brazil,453057,18424,380904,53729,33,0,30,Western Pacific,69,AB,O,Lungs,66+,Cough,AstraZeneca
+Spain,264540,2628,227690,34222,420,7,302,South-East Asia,90,B,A,Liver,51-65,"Cough, Breathlessness",J&J
+Spain,457503,10621,435653,11229,969,48,588,Africa,77,O,A,Heart,19-35,Fatigue,Pfizer
+UK,400520,7986,380408,12126,881,74,568,Western Pacific,28,A,O,Kidney,0-18,"Breathlessness, Cough, Headache",AstraZeneca
+Russia,470991,38676,429852,2463,664,43,604,Europe,79,A,AB,Kidney,0-18,"Cough, Breathlessness",Moderna
+Spain,216963,9085,168272,39606,384,15,366,Western Pacific,1,B,B,Heart,36-50,"Loss of taste, Headache",Sputnik V
+India,549236,47868,369752,131616,207,7,164,South-East Asia,24,A,AB,Liver,0-18,"Fatigue, Fever",AstraZeneca
+UK,47659,3667,12562,31430,977,47,888,South-East Asia,51,O,A,Brain,51-65,Headache,Sputnik V
+France,907070,42758,780025,84287,464,33,292,Americas,28,B,AB,Brain,66+,"Loss of taste, Cough, Fever",Sputnik V
+Brazil,440150,25502,292299,122349,461,10,104,Western Pacific,20,A,B,Lungs,66+,"Fever, Fatigue, Cough",Sputnik V
+Germany,452783,12147,141326,299310,481,1,144,Africa,99,B,O,Heart,19-35,Loss of taste,Moderna
+Italy,551132,15287,103869,431976,823,20,590,Western Pacific,66,A,AB,Kidney,51-65,"Headache, Breathlessness",Pfizer
+Spain,244989,4853,200059,40077,171,3,25,Western Pacific,94,O,B,Kidney,0-18,"Fever, Loss of taste",AstraZeneca
+Italy,941865,28512,252160,661193,484,21,117,Africa,84,B,B,Brain,36-50,Fever,J&J
+USA,142526,12259,122059,8208,995,32,917,Africa,46,O,AB,Lungs,66+,Fatigue,Moderna
+India,754769,42543,408889,303337,638,55,584,Africa,70,B,B,Kidney,19-35,"Headache, Breathlessness",Pfizer
+India,527688,41597,67272,418819,536,28,32,Americas,36,O,O,Heart,36-50,"Breathlessness, Loss of taste",AstraZeneca
+Mexico,294980,14245,53195,227540,214,20,197,Europe,95,AB,AB,Heart,51-65,"Fatigue, Cough, Loss of taste",Sputnik V
+UK,309819,1752,183024,125043,555,52,232,Africa,55,B,A,Lungs,0-18,"Fever, Headache",Pfizer
+UK,470191,8354,181329,280508,151,4,5,Eastern Mediterranean,46,AB,O,Liver,51-65,"Cough, Headache",Pfizer
+UK,574351,4131,483227,86993,916,26,290,Europe,11,A,A,Liver,36-50,"Breathlessness, Headache",Sputnik V
+Spain,510583,3582,292754,214247,109,7,35,South-East Asia,55,O,O,Kidney,66+,Cough,Sputnik V
+Spain,394240,31936,187876,174428,966,36,921,Africa,23,A,B,Brain,0-18,Fatigue,Moderna
+France,821043,68581,364042,388420,288,25,87,Americas,83,O,A,Kidney,0-18,"Fatigue, Loss of taste",Moderna
+UK,653813,59713,154159,439941,0,0,0,Eastern Mediterranean,70,O,AB,Brain,19-35,"Breathlessness, Loss of taste, Fatigue",J&J
+Mexico,551402,27186,375578,148638,408,8,166,South-East Asia,14,O,A,Kidney,51-65,"Loss of taste, Headache, Cough",Pfizer
+Spain,708825,68117,435757,204951,852,8,131,South-East Asia,28,O,A,Heart,66+,"Cough, Breathlessness, Loss of taste",Pfizer
+Spain,746513,21837,121302,603374,835,83,519,Western Pacific,12,AB,B,Brain,19-35,"Fatigue, Breathlessness",J&J
+Mexico,277119,2496,14716,259907,631,21,130,Africa,34,A,B,Kidney,36-50,Breathlessness,J&J
+UK,764801,74545,137515,552741,543,30,532,South-East Asia,61,AB,AB,Liver,19-35,Fever,Pfizer
+Russia,149479,12384,51842,85253,858,62,99,Western Pacific,84,O,O,Brain,66+,Fever,Sputnik V
+Germany,358451,29931,327831,689,379,35,368,Africa,36,A,AB,Liver,66+,"Loss of taste, Headache",Sputnik V
+UK,66302,23,31635,34644,938,18,595,South-East Asia,0,O,B,Lungs,66+,"Fever, Fatigue",Pfizer
+Russia,505350,33692,226751,244907,956,2,330,South-East Asia,82,AB,AB,Kidney,19-35,"Fatigue, Loss of taste",AstraZeneca
+Russia,169268,14215,92631,62422,361,1,25,Europe,30,AB,AB,Heart,66+,"Fatigue, Breathlessness",Moderna
+Mexico,214119,10479,17883,185757,874,56,853,Western Pacific,35,O,B,Liver,66+,"Loss of taste, Fatigue, Cough",Moderna
+India,119844,2185,93111,24548,153,3,47,Europe,94,AB,A,Liver,66+,Cough,J&J
+Italy,4628,179,255,4194,985,86,677,Africa,2,O,B,Liver,19-35,"Loss of taste, Breathlessness",Moderna
+India,214536,16861,164423,33252,71,1,15,Americas,91,B,O,Lungs,36-50,Cough,J&J
+Spain,90898,4523,82152,4223,253,12,232,Western Pacific,50,A,AB,Brain,0-18,"Headache, Fatigue, Breathlessness",J&J
+France,577050,49930,322039,205081,259,15,199,Americas,92,A,O,Brain,0-18,Cough,Moderna
+UK,152006,981,88428,62597,24,2,14,Eastern Mediterranean,23,B,AB,Kidney,0-18,"Headache, Loss of taste",AstraZeneca
+Spain,60199,4185,25563,30451,791,67,230,South-East Asia,100,B,A,Brain,36-50,"Loss of taste, Headache",Moderna
+France,25953,176,2916,22861,703,18,307,Europe,97,O,A,Kidney,66+,"Headache, Fever",Sputnik V
+Brazil,369366,7762,307471,54133,635,32,429,Western Pacific,27,AB,A,Lungs,0-18,"Headache, Cough",AstraZeneca
+Mexico,24877,468,11668,12741,114,5,14,Western Pacific,94,A,B,Brain,66+,"Fever, Loss of taste, Fatigue",Moderna
+Brazil,698699,38270,478710,181719,539,50,53,Americas,7,AB,AB,Lungs,19-35,"Fever, Cough",Pfizer
+Mexico,316866,20415,112312,184139,386,32,260,Western Pacific,30,B,B,Heart,19-35,"Fever, Cough, Headache",Moderna
+Germany,536052,13543,239892,282617,402,11,375,Americas,57,B,AB,Brain,66+,Fatigue,Sputnik V
+France,256876,6622,223521,26733,138,13,98,Americas,37,O,O,Liver,0-18,"Loss of taste, Headache, Cough",Moderna
+France,805821,58815,348722,398284,704,56,247,Africa,56,AB,AB,Lungs,51-65,"Headache, Fatigue",Sputnik V
+India,801701,78141,512990,210570,282,20,62,Western Pacific,35,B,AB,Heart,36-50,Cough,J&J
+Brazil,417978,5567,100858,311553,306,20,48,Africa,8,AB,B,Heart,36-50,"Cough, Fever, Breathlessness",Pfizer
+France,7156,99,5996,1061,496,9,367,Eastern Mediterranean,62,AB,AB,Liver,36-50,"Breathlessness, Cough, Fever",Moderna
+Germany,539772,12073,14692,513007,753,42,205,Europe,0,AB,AB,Brain,36-50,"Breathlessness, Fatigue",Pfizer
+Mexico,366446,20723,29126,316597,940,13,689,Americas,10,O,AB,Heart,51-65,"Breathlessness, Cough",AstraZeneca
+France,696647,57720,186663,452264,438,10,176,Americas,31,AB,B,Brain,36-50,"Breathlessness, Fever",Pfizer
+Spain,338435,23334,102348,212753,640,32,368,Americas,98,AB,AB,Heart,0-18,"Headache, Loss of taste",Pfizer
+Spain,353951,23287,53632,277032,741,16,39,South-East Asia,55,B,AB,Kidney,36-50,"Breathlessness, Fever",Sputnik V
+UK,50382,3018,30500,16864,49,0,0,South-East Asia,18,O,AB,Heart,51-65,"Cough, Fever",J&J
+France,832492,27032,122862,682598,633,48,204,Western Pacific,44,A,AB,Lungs,19-35,Loss of taste,AstraZeneca
+USA,573078,26904,47166,499008,924,79,46,Europe,85,AB,O,Heart,0-18,"Cough, Loss of taste",Moderna
+UK,927875,67218,459619,401038,989,13,661,Americas,16,A,AB,Liver,19-35,"Loss of taste, Cough",J&J
+USA,220696,1730,110689,108277,646,20,498,Europe,75,O,O,Liver,19-35,Loss of taste,Moderna
+Mexico,481443,31667,405307,44469,47,3,32,Africa,36,A,O,Brain,66+,Fatigue,AstraZeneca
+Spain,155254,7510,61991,85753,784,46,246,Americas,50,A,A,Liver,66+,"Fever, Breathlessness, Fatigue",J&J
+USA,724653,30481,91948,602224,877,39,162,Western Pacific,39,A,AB,Brain,19-35,"Fever, Headache",J&J
+Italy,870325,48884,764188,57253,151,5,146,Americas,28,AB,O,Brain,19-35,"Cough, Headache",AstraZeneca
+Mexico,773917,47038,37579,689300,684,20,523,Africa,16,B,O,Lungs,51-65,"Fever, Loss of taste",J&J
+Brazil,6863,182,1589,5092,482,20,480,Africa,35,AB,A,Brain,0-18,"Breathlessness, Headache",J&J
+Germany,800386,31480,137297,631609,344,24,26,Europe,81,A,AB,Liver,0-18,Cough,J&J
+India,377246,14538,174361,188347,382,17,196,Africa,32,A,A,Kidney,19-35,"Headache, Breathlessness, Cough",AstraZeneca
+France,839591,49798,71791,718002,387,7,49,Americas,7,O,O,Heart,36-50,Headache,J&J
+India,200115,5528,122415,72172,419,6,276,Western Pacific,52,AB,AB,Liver,51-65,"Fatigue, Fever, Loss of taste",Pfizer
+France,41539,2250,34378,4911,225,6,108,Europe,59,B,O,Liver,19-35,"Headache, Breathlessness, Fatigue",Sputnik V
+Mexico,497862,21082,113272,363508,523,5,155,Africa,73,A,O,Kidney,0-18,Fatigue,Sputnik V
+Germany,215749,21362,153273,41114,981,11,462,South-East Asia,22,O,O,Brain,36-50,"Fever, Fatigue",Sputnik V
+Brazil,661325,11810,64585,584930,84,1,49,Africa,25,A,A,Liver,51-65,Headache,AstraZeneca
+Mexico,608115,27991,564198,15926,955,74,286,Europe,42,A,A,Liver,36-50,"Breathlessness, Cough",AstraZeneca
+UK,565321,25769,109506,430046,587,18,283,South-East Asia,5,AB,B,Brain,66+,"Fatigue, Loss of taste",AstraZeneca
+India,489041,22263,312254,154524,890,16,493,Western Pacific,46,B,B,Heart,19-35,"Loss of taste, Fever, Fatigue",Sputnik V
+Mexico,110895,10882,81361,18652,662,54,154,Eastern Mediterranean,82,A,O,Kidney,66+,"Breathlessness, Loss of taste, Fever",AstraZeneca
+Brazil,433093,4752,144870,283471,935,75,557,Eastern Mediterranean,64,A,B,Brain,0-18,"Cough, Fever, Loss of taste",Sputnik V
+Spain,870685,63386,224325,582974,174,15,120,Eastern Mediterranean,49,B,AB,Lungs,36-50,"Breathlessness, Cough, Fever",Pfizer
+UK,628279,34982,465167,128130,314,24,291,Western Pacific,20,B,O,Brain,51-65,Fever,Sputnik V
+Italy,205962,11014,189018,5930,929,76,589,South-East Asia,28,B,O,Heart,51-65,"Loss of taste, Fever, Breathlessness",Pfizer
+USA,67261,6404,30908,29949,377,35,196,Africa,27,O,B,Brain,51-65,"Cough, Headache, Fatigue",Moderna
+USA,541897,44323,189348,308226,133,11,14,Eastern Mediterranean,72,A,A,Heart,0-18,"Cough, Headache",J&J
+USA,131154,5217,96640,29297,701,31,499,Africa,6,B,B,Brain,51-65,Fatigue,Pfizer
+Russia,992435,82024,209277,701134,176,11,17,Africa,49,O,O,Liver,0-18,"Fatigue, Fever, Loss of taste",Moderna
+Germany,466173,41881,90630,333662,409,36,18,Eastern Mediterranean,83,A,B,Kidney,0-18,"Cough, Breathlessness, Loss of taste",AstraZeneca
+Spain,691685,53799,423285,214601,306,9,16,Europe,64,AB,AB,Kidney,0-18,Cough,J&J
+India,821310,62470,19249,739591,702,34,531,Americas,93,AB,AB,Liver,66+,"Breathlessness, Headache",J&J
+Mexico,726022,69264,358296,298462,635,3,425,Africa,83,A,AB,Brain,19-35,"Headache, Fever, Cough",J&J
+Spain,649203,16799,207952,424452,159,12,151,Africa,42,B,O,Liver,0-18,"Headache, Fatigue",AstraZeneca
+Russia,921224,33233,114869,773122,921,10,90,Eastern Mediterranean,32,AB,B,Kidney,0-18,"Fatigue, Loss of taste, Headache",J&J
+Brazil,811161,9105,792196,9860,947,21,377,Europe,24,O,B,Heart,0-18,"Headache, Cough, Fever",Pfizer
+USA,393557,6412,23863,363282,690,47,69,Western Pacific,23,O,O,Kidney,66+,"Loss of taste, Fatigue, Cough",J&J
+Mexico,777860,21943,229143,526774,575,22,332,Eastern Mediterranean,85,A,B,Brain,36-50,Cough,Moderna
+USA,620671,22593,304715,293363,933,23,599,Americas,64,O,A,Lungs,51-65,"Fever, Breathlessness",Pfizer
+Mexico,455007,40254,289257,125496,771,44,711,Europe,22,B,B,Brain,19-35,"Fever, Fatigue",Pfizer
+India,856527,24056,646922,185549,905,49,185,South-East Asia,12,A,O,Lungs,36-50,Breathlessness,Moderna
+Spain,82316,7860,12315,62141,642,22,366,Europe,1,B,B,Lungs,66+,"Loss of taste, Cough",Sputnik V
+India,839807,49163,420854,369790,494,26,100,Eastern Mediterranean,100,A,B,Lungs,0-18,"Fatigue, Loss of taste, Cough",AstraZeneca
+Spain,443492,1066,110217,332209,388,29,244,Europe,48,B,B,Kidney,19-35,Loss of taste,J&J
+Mexico,13945,205,12316,1424,550,43,24,Americas,47,O,AB,Kidney,51-65,Cough,J&J
+Germany,934073,83801,706694,143578,772,76,730,Eastern Mediterranean,92,O,O,Kidney,51-65,Breathlessness,J&J
+India,269944,1008,204976,63960,519,3,415,Africa,15,B,B,Lungs,66+,"Fatigue, Breathlessness",Sputnik V
+Germany,317937,23806,146792,147339,83,2,31,South-East Asia,100,O,B,Brain,19-35,Fever,Pfizer
+Spain,268911,12336,249850,6725,113,8,29,Western Pacific,15,B,O,Heart,51-65,"Loss of taste, Breathlessness",AstraZeneca
+Brazil,88774,1849,34166,52759,36,3,9,Africa,65,O,AB,Heart,51-65,Loss of taste,Sputnik V
+Mexico,901556,61204,308769,531583,25,2,12,Africa,94,A,O,Liver,19-35,Headache,Moderna
+USA,988308,54978,280909,652421,871,15,517,Eastern Mediterranean,2,AB,A,Brain,0-18,"Headache, Breathlessness",Moderna
+Brazil,395134,12537,95253,287344,455,16,294,Africa,34,A,B,Liver,0-18,Fatigue,Moderna
+India,72126,5445,17375,49306,216,0,97,Europe,65,O,AB,Kidney,51-65,"Loss of taste, Cough",Pfizer
+France,448334,3899,398634,45801,585,46,163,Western Pacific,74,O,B,Heart,36-50,"Fatigue, Loss of taste",Sputnik V
+Spain,233963,1766,150366,81831,389,0,163,Eastern Mediterranean,16,AB,O,Kidney,36-50,Breathlessness,Moderna
+USA,610416,16064,526447,67905,1000,50,92,Western Pacific,62,O,O,Kidney,0-18,"Cough, Loss of taste, Headache",Pfizer
+India,727402,63264,407492,256646,279,14,40,South-East Asia,9,B,AB,Liver,36-50,"Fever, Loss of taste",AstraZeneca
+Germany,658885,20805,272216,365864,787,47,334,Eastern Mediterranean,84,A,AB,Liver,66+,Headache,J&J
+UK,539043,508,372643,165892,493,11,299,Western Pacific,54,AB,AB,Liver,66+,"Fatigue, Fever, Cough",Moderna
+France,385064,15416,263282,106366,570,17,113,Europe,93,A,B,Lungs,19-35,"Fatigue, Cough",Sputnik V
+UK,122458,11453,74486,36519,868,71,453,Europe,45,AB,AB,Brain,66+,"Fever, Headache, Loss of taste",Pfizer
+India,534386,47987,275424,210975,743,54,390,Americas,24,AB,B,Brain,51-65,Fever,Moderna
+Italy,637069,49582,570289,17198,707,56,703,Europe,87,AB,O,Lungs,0-18,"Cough, Breathlessness",Sputnik V
+Brazil,360658,26197,160517,173944,600,9,460,Western Pacific,63,A,O,Brain,19-35,"Cough, Breathlessness, Loss of taste",J&J
+Italy,673474,28886,103457,541131,143,12,137,Western Pacific,10,O,A,Kidney,51-65,Cough,Moderna
+Russia,957645,12552,312633,632460,997,87,265,Europe,48,A,B,Heart,36-50,"Fever, Breathlessness, Headache",Sputnik V
+Germany,485402,25149,256819,203434,883,5,572,Africa,99,B,A,Brain,19-35,"Fatigue, Fever, Headache",Sputnik V
+Italy,701425,36826,151599,513000,257,19,247,Africa,56,A,B,Brain,0-18,"Fatigue, Breathlessness",Moderna
+India,575274,32653,298370,244251,22,1,12,Eastern Mediterranean,64,B,B,Brain,66+,"Fatigue, Breathlessness, Cough",Sputnik V
+Russia,672658,47929,601063,23666,29,0,14,Eastern Mediterranean,86,A,O,Heart,0-18,"Fever, Cough",Pfizer
+India,114512,2777,40953,70782,400,6,363,Europe,46,O,AB,Brain,19-35,"Headache, Loss of taste, Cough",Pfizer
+Italy,544091,29663,498973,15455,463,16,129,Americas,77,A,AB,Heart,51-65,"Loss of taste, Cough, Fatigue",AstraZeneca
+Italy,100676,7515,46371,46790,446,0,106,South-East Asia,14,A,A,Liver,51-65,"Cough, Headache, Loss of taste",Sputnik V
+Germany,861134,14111,673244,173779,876,29,0,South-East Asia,28,AB,O,Kidney,66+,"Loss of taste, Fever",J&J
+UK,293912,24613,98779,170520,728,35,684,Africa,61,A,O,Lungs,0-18,"Cough, Fever",Sputnik V
+France,445454,3178,61965,380311,33,0,15,Africa,74,B,B,Brain,36-50,"Cough, Loss of taste, Fever",J&J
+Spain,61815,1922,2347,57546,266,18,42,Eastern Mediterranean,83,O,A,Liver,36-50,"Fatigue, Breathlessness, Cough",Pfizer
+France,100117,5454,55041,39622,774,41,459,Western Pacific,91,AB,A,Kidney,51-65,Loss of taste,Moderna
+France,216313,18445,169149,28719,358,33,249,Americas,83,A,O,Heart,0-18,"Headache, Breathlessness, Loss of taste",AstraZeneca
+Germany,759831,34435,558189,167207,610,9,510,Western Pacific,87,AB,B,Brain,66+,"Breathlessness, Cough",J&J
+UK,312723,1375,311163,185,925,19,670,Africa,17,B,A,Heart,66+,Breathlessness,Sputnik V
+UK,328076,6440,45996,275640,457,43,95,Africa,62,A,A,Heart,51-65,"Fatigue, Breathlessness",Pfizer
+Italy,836033,43603,375162,417268,834,61,514,Europe,29,B,AB,Liver,51-65,Headache,J&J
+Russia,831217,61869,393163,376185,824,26,817,Africa,5,A,O,Liver,66+,"Breathlessness, Fever, Loss of taste",AstraZeneca
+UK,360164,215,114502,245447,983,93,617,Americas,48,AB,A,Liver,0-18,"Headache, Loss of taste, Breathlessness",Sputnik V
+Russia,86099,3206,51437,31456,446,40,200,Eastern Mediterranean,39,B,A,Liver,19-35,"Cough, Loss of taste",AstraZeneca
+India,869896,48673,104765,716458,72,3,22,Europe,81,AB,B,Kidney,19-35,"Fatigue, Fever",Moderna
+Italy,400524,576,217450,182498,474,31,151,Africa,40,A,AB,Heart,19-35,"Loss of taste, Fatigue, Fever",J&J
+Russia,816228,5011,186862,624355,495,6,112,Europe,94,A,AB,Heart,66+,Headache,Moderna
+UK,640204,5664,615400,19140,593,0,433,South-East Asia,85,A,AB,Brain,0-18,"Fever, Cough",Pfizer
+UK,596148,21019,385499,189630,32,1,26,Americas,33,B,O,Kidney,66+,"Fever, Loss of taste, Breathlessness",Moderna
+Spain,87092,6759,35612,44721,797,68,745,Eastern Mediterranean,30,AB,B,Heart,0-18,Fatigue,Moderna
+Brazil,74791,3066,33598,38127,247,21,138,Americas,41,O,A,Brain,66+,"Fever, Cough, Headache",Sputnik V
+Russia,378171,19962,30833,327376,575,40,45,Africa,11,O,A,Kidney,0-18,Fatigue,AstraZeneca
+Mexico,886546,76664,793369,16513,96,3,24,South-East Asia,35,A,B,Kidney,0-18,"Fever, Cough",Pfizer
+USA,286990,15167,200809,71014,821,63,306,Europe,66,A,A,Brain,36-50,Fever,AstraZeneca
+India,404299,21751,275257,107291,228,19,167,Americas,57,B,B,Kidney,19-35,Loss of taste,Moderna
+Mexico,573017,14506,239946,318565,695,43,287,South-East Asia,25,A,AB,Heart,36-50,Breathlessness,Moderna
+France,788537,45370,513394,229773,555,45,400,Eastern Mediterranean,17,O,AB,Kidney,66+,"Breathlessness, Fever",Pfizer
+Italy,179604,7732,146882,24990,731,69,470,Europe,0,A,AB,Liver,19-35,Headache,AstraZeneca
+Russia,751613,61722,180226,509665,754,21,562,Africa,79,B,A,Brain,0-18,Loss of taste,J&J
+UK,924856,84778,404338,435740,707,20,659,Americas,54,B,AB,Liver,36-50,"Fatigue, Loss of taste",Pfizer
+Mexico,570599,6544,533873,30182,92,3,23,Americas,63,B,A,Liver,0-18,"Loss of taste, Cough",J&J
+Russia,59321,1841,50681,6799,253,16,163,Eastern Mediterranean,4,B,O,Liver,51-65,"Breathlessness, Loss of taste, Fatigue",AstraZeneca
+India,241018,10776,94750,135492,440,16,203,Americas,31,O,A,Lungs,66+,"Cough, Fatigue",Moderna
+Mexico,937206,77422,151696,708088,251,25,11,South-East Asia,2,AB,A,Kidney,19-35,"Fever, Loss of taste, Breathlessness",Pfizer
+USA,866317,65843,800043,431,535,34,479,Africa,60,AB,A,Liver,36-50,Breathlessness,AstraZeneca
+Italy,205834,16944,88456,100434,683,26,53,Eastern Mediterranean,17,AB,AB,Liver,36-50,"Breathlessness, Fever, Loss of taste",Moderna
+Mexico,134029,7590,10434,116005,981,94,480,Americas,65,B,O,Kidney,51-65,"Headache, Cough",J&J
+UK,196279,18537,60778,116964,942,85,125,Africa,91,O,AB,Kidney,0-18,Headache,AstraZeneca
+India,254297,16967,206281,31049,271,15,83,Europe,39,B,AB,Liver,66+,"Cough, Loss of taste",Sputnik V
+Italy,412279,5871,385244,21164,525,24,340,Americas,54,AB,O,Heart,51-65,Fatigue,Moderna
+Spain,794118,26800,172124,595194,884,57,212,South-East Asia,43,B,A,Heart,36-50,"Cough, Fever",Moderna
+France,19892,94,9036,10762,577,19,33,Europe,11,AB,AB,Liver,19-35,"Headache, Loss of taste, Cough",J&J
+Mexico,766403,41267,555282,169854,314,11,288,Eastern Mediterranean,25,AB,O,Kidney,51-65,Fatigue,Sputnik V
+Italy,672402,8677,411908,251817,270,15,112,Europe,52,B,AB,Kidney,19-35,"Cough, Breathlessness",J&J
+UK,516873,46335,264146,206392,467,0,254,Africa,46,O,AB,Heart,36-50,"Headache, Breathlessness, Fever",AstraZeneca
+Germany,30915,1823,11879,17213,745,0,486,Europe,17,B,O,Lungs,51-65,"Headache, Cough",Pfizer
+Russia,194583,1494,119740,73349,524,48,477,Americas,79,A,AB,Kidney,66+,"Loss of taste, Headache",AstraZeneca
+Spain,425539,36032,385657,3850,422,23,242,Africa,76,B,AB,Liver,19-35,"Fever, Loss of taste, Headache",Moderna
+Germany,492532,15272,244153,233107,236,22,7,Americas,74,A,AB,Brain,66+,"Cough, Headache, Breathlessness",Moderna
+UK,503689,33631,357358,112700,838,52,170,Western Pacific,63,A,A,Liver,51-65,Fatigue,AstraZeneca
+UK,34281,1857,31112,1312,565,53,534,Europe,39,A,AB,Heart,66+,Breathlessness,J&J
+Italy,537684,42312,487774,7598,539,15,115,South-East Asia,49,O,B,Brain,66+,Fever,Moderna
+Mexico,192144,2374,50984,138786,401,34,374,Africa,47,B,O,Kidney,51-65,"Fatigue, Fever",J&J
+France,933489,60315,722337,150837,293,13,107,Western Pacific,24,AB,B,Brain,0-18,"Fever, Loss of taste, Fatigue",AstraZeneca
+USA,155483,15148,42390,97945,3,0,0,South-East Asia,41,A,A,Kidney,66+,"Fatigue, Cough",J&J
+India,801286,61477,7910,731899,15,0,3,Europe,68,B,B,Liver,51-65,"Breathlessness, Loss of taste",Moderna
+France,332025,9395,70887,251743,962,77,297,Americas,3,AB,O,Kidney,0-18,"Breathlessness, Fever",AstraZeneca
+UK,100664,6382,83407,10875,350,3,243,Americas,23,A,B,Heart,51-65,Cough,AstraZeneca
+France,40493,3923,7776,28794,596,11,289,Eastern Mediterranean,18,A,AB,Liver,66+,Cough,AstraZeneca
+Brazil,847807,78380,349720,419707,177,3,30,Europe,32,B,A,Lungs,51-65,"Fatigue, Loss of taste, Cough",J&J
+Germany,138030,3837,24669,109524,188,17,7,Western Pacific,38,AB,B,Liver,0-18,"Breathlessness, Headache, Loss of taste",Pfizer
+Brazil,550102,8761,118802,422539,745,42,487,Western Pacific,92,A,A,Liver,66+,"Fever, Headache, Breathlessness",Moderna
+USA,783821,31116,502624,250081,350,0,148,South-East Asia,50,B,AB,Liver,51-65,"Breathlessness, Fever, Fatigue",AstraZeneca
+USA,759625,23162,328786,407677,962,2,158,Africa,33,O,A,Lungs,51-65,"Headache, Cough",J&J
+Russia,102088,3338,37944,60806,99,4,12,Eastern Mediterranean,92,B,AB,Brain,19-35,Headache,Moderna
+Brazil,337960,25569,264708,47683,744,57,517,Western Pacific,52,AB,A,Kidney,19-35,"Breathlessness, Cough, Fatigue",Moderna
+Spain,980676,10617,834842,135217,117,6,32,Europe,93,B,AB,Brain,0-18,Cough,J&J
+Russia,106462,10427,88713,7322,760,66,402,Western Pacific,29,B,A,Liver,51-65,"Headache, Cough",AstraZeneca
+Italy,220552,16215,144507,59830,852,23,424,Africa,16,B,B,Lungs,66+,"Headache, Fatigue, Loss of taste",AstraZeneca
+Mexico,962688,52245,797578,112865,342,16,319,Eastern Mediterranean,50,O,AB,Kidney,0-18,Fever,AstraZeneca
+Russia,263139,488,151907,110744,6,0,6,Africa,95,B,A,Brain,0-18,"Fever, Breathlessness, Loss of taste",AstraZeneca
+USA,587394,54081,315732,217581,114,6,64,Europe,88,O,B,Brain,19-35,"Cough, Fever",Moderna
+UK,994027,2784,743518,247725,487,9,242,Europe,100,A,A,Kidney,0-18,Headache,Sputnik V
+Mexico,847470,1593,389652,456225,704,7,367,Americas,32,A,B,Liver,36-50,"Fever, Breathlessness",Moderna
+Italy,159828,7897,146515,5416,939,21,406,Americas,12,AB,AB,Heart,36-50,"Headache, Fever",Pfizer
+India,785986,68118,59881,657987,910,21,788,Africa,68,O,B,Kidney,66+,"Cough, Headache, Breathlessness",AstraZeneca
+Germany,239697,7144,198070,34483,335,8,257,Western Pacific,19,AB,O,Liver,51-65,"Fatigue, Headache, Fever",Moderna
+Mexico,50106,2342,2896,44868,86,7,63,Africa,14,O,O,Heart,66+,"Cough, Headache, Fatigue",Moderna
+Italy,539318,4123,80543,454652,4,0,2,Eastern Mediterranean,15,AB,B,Kidney,36-50,"Cough, Headache, Loss of taste",Moderna
+Italy,221101,148,213863,7090,734,70,64,Africa,70,B,O,Kidney,51-65,"Fever, Cough",J&J
+USA,860903,64703,284139,512061,180,11,23,South-East Asia,26,AB,AB,Kidney,51-65,"Headache, Breathlessness",Sputnik V
+Brazil,125794,267,62013,63514,790,57,683,Africa,23,B,AB,Kidney,51-65,"Fatigue, Loss of taste, Fever",AstraZeneca
+Spain,2869,42,190,2637,46,3,10,Africa,22,A,A,Liver,0-18,Headache,AstraZeneca
+Italy,448883,12677,84508,351698,148,3,52,Americas,59,AB,O,Brain,0-18,"Headache, Fatigue",AstraZeneca
+Spain,843459,51778,133278,658403,405,28,363,Europe,72,O,A,Heart,0-18,Fever,J&J
+USA,148534,949,9840,137745,685,33,470,Europe,19,A,O,Lungs,51-65,"Cough, Fever",J&J
+Mexico,411683,13972,381590,16121,246,12,119,South-East Asia,44,B,O,Liver,36-50,"Loss of taste, Breathlessness",Sputnik V
+France,174072,16730,27370,129972,176,3,66,Eastern Mediterranean,35,AB,B,Lungs,51-65,Headache,J&J
+India,24230,1056,22307,867,311,7,243,Africa,26,B,AB,Brain,0-18,Headache,Pfizer
+India,62517,3687,32312,26518,392,12,337,Africa,16,AB,B,Liver,36-50,Fatigue,Pfizer
+UK,928073,21512,186261,720300,408,2,307,Eastern Mediterranean,73,A,O,Kidney,51-65,Fever,Moderna
+France,83337,2478,14330,66529,214,3,91,Western Pacific,11,A,O,Kidney,36-50,Fatigue,J&J
+Mexico,72563,3059,45629,23875,795,7,289,South-East Asia,23,B,A,Liver,66+,"Breathlessness, Loss of taste, Headache",Moderna
+UK,296274,9812,222455,64007,299,2,175,Europe,18,A,O,Lungs,66+,"Headache, Fatigue, Cough",Pfizer
+Spain,919105,35654,833125,50326,156,9,37,Africa,47,AB,B,Lungs,36-50,Fever,Sputnik V
+UK,322880,21172,141287,160421,860,76,313,Western Pacific,11,O,O,Kidney,19-35,"Cough, Fatigue, Loss of taste",AstraZeneca
+UK,240672,17012,67376,156284,353,23,81,Western Pacific,27,A,B,Lungs,66+,Cough,J&J
+France,428314,36591,144347,247376,352,34,302,South-East Asia,7,O,AB,Kidney,19-35,Headache,Sputnik V
+France,483193,10267,74990,397936,133,11,6,Africa,31,AB,AB,Kidney,51-65,"Cough, Loss of taste, Breathlessness",J&J
+France,675515,28786,457380,189349,501,28,50,Eastern Mediterranean,46,A,AB,Lungs,36-50,"Cough, Breathlessness",Sputnik V
+Italy,810866,3403,308354,499109,872,82,427,Americas,38,O,B,Liver,66+,Fatigue,J&J
+France,176339,4432,45044,126863,937,64,894,Africa,52,A,AB,Liver,36-50,"Breathlessness, Loss of taste, Cough",Moderna
+UK,447812,29779,327992,90041,555,39,534,Africa,28,AB,O,Liver,51-65,Cough,J&J
+USA,750500,73097,459779,217624,484,15,327,Western Pacific,48,O,O,Brain,36-50,"Fever, Fatigue, Breathlessness",Pfizer
+Brazil,926530,78220,141580,706730,717,62,425,South-East Asia,65,AB,A,Kidney,66+,Breathlessness,Pfizer
+Russia,995099,8759,82446,903894,504,27,216,Americas,64,O,B,Lungs,0-18,"Fatigue, Cough, Fever",Moderna
+India,872590,73500,615713,183377,76,3,22,Africa,33,B,O,Lungs,0-18,"Loss of taste, Fever",Sputnik V
+Mexico,7022,351,4631,2040,176,5,101,Eastern Mediterranean,17,O,A,Heart,0-18,Cough,AstraZeneca
+UK,957805,11438,534143,412224,242,1,192,Western Pacific,85,B,O,Brain,36-50,Fatigue,J&J
+Mexico,409222,27820,258345,123057,864,53,72,Eastern Mediterranean,32,A,B,Brain,19-35,"Fatigue, Breathlessness, Cough",Pfizer
+Mexico,326639,25341,578,300720,910,72,680,Europe,5,A,B,Kidney,51-65,"Cough, Headache",Pfizer
+UK,391504,11723,192769,187012,304,10,33,Eastern Mediterranean,12,O,A,Kidney,0-18,Fatigue,AstraZeneca
+Spain,609819,33196,266312,310311,910,39,286,Europe,38,B,B,Heart,36-50,Fatigue,Pfizer
+France,668044,33034,380708,254302,955,21,59,South-East Asia,54,O,A,Liver,36-50,"Fatigue, Fever",J&J
+India,738128,63879,191842,482407,539,33,5,Western Pacific,18,B,AB,Brain,36-50,"Breathlessness, Fatigue, Loss of taste",Moderna
+Russia,669298,44836,349422,275040,129,1,90,Western Pacific,83,B,O,Heart,51-65,Fatigue,Moderna
+UK,895754,37131,395875,462748,901,43,242,Americas,86,B,A,Liver,19-35,"Breathlessness, Cough",AstraZeneca
+Italy,599174,43562,382242,173370,407,37,292,South-East Asia,50,AB,B,Liver,19-35,Fatigue,Moderna
+UK,871267,30758,694347,146162,549,6,196,South-East Asia,6,B,A,Lungs,51-65,Fatigue,Moderna
+Brazil,570193,37705,32542,499946,749,22,233,Africa,44,O,O,Lungs,51-65,"Headache, Fever, Fatigue",Pfizer
+France,976360,16868,932689,26803,952,65,529,Eastern Mediterranean,31,AB,AB,Heart,51-65,"Fatigue, Headache",J&J
+Mexico,111283,6534,99074,5675,447,17,436,Americas,0,O,A,Brain,0-18,Fever,AstraZeneca
+Italy,609596,7918,177428,424250,148,13,64,Western Pacific,16,AB,A,Lungs,36-50,"Fatigue, Fever, Breathlessness",J&J
+Russia,136431,10924,20614,104893,524,13,89,Western Pacific,96,O,B,Liver,19-35,"Fever, Fatigue, Loss of taste",Moderna
+UK,196571,4047,121289,71235,142,6,104,Eastern Mediterranean,32,AB,B,Lungs,0-18,"Fatigue, Loss of taste, Fever",J&J
+USA,836699,60447,512719,263533,52,0,14,Europe,64,A,O,Liver,66+,"Loss of taste, Fatigue, Fever",Sputnik V
+Spain,434131,29813,329839,74479,497,38,242,Eastern Mediterranean,12,B,O,Kidney,66+,Breathlessness,Pfizer
+Italy,544136,35488,420618,88030,453,7,115,Americas,31,B,A,Lungs,0-18,"Cough, Fever",Pfizer
+Russia,980874,19387,330533,630954,992,11,337,Africa,9,B,A,Kidney,51-65,"Fatigue, Headache, Cough",AstraZeneca
+Germany,945899,85475,150897,709527,76,4,72,Africa,55,B,A,Lungs,19-35,"Fever, Headache, Breathlessness",Sputnik V
+Mexico,410526,30981,194623,184922,674,10,242,Eastern Mediterranean,76,AB,B,Liver,19-35,"Loss of taste, Cough",Pfizer
+Russia,820620,40130,758487,22003,880,30,284,Americas,56,A,B,Heart,36-50,"Fever, Breathlessness",Sputnik V
+India,346634,13373,34035,299226,502,25,4,Western Pacific,55,B,O,Kidney,19-35,"Cough, Fever",Sputnik V
+UK,872765,10720,387132,474913,337,16,33,Western Pacific,67,B,A,Heart,0-18,Loss of taste,Sputnik V
+France,765611,43318,49702,672591,488,7,1,Africa,27,O,B,Brain,66+,Fever,Pfizer
+Russia,958273,35431,261904,660938,242,8,76,Eastern Mediterranean,65,B,A,Lungs,36-50,Breathlessness,Pfizer
+France,644207,14486,549232,80489,43,0,17,Western Pacific,20,AB,A,Liver,19-35,Headache,Pfizer
+USA,20052,1355,11421,7276,681,37,256,South-East Asia,67,O,B,Lungs,51-65,Loss of taste,Sputnik V
+France,253953,6608,151207,96138,459,13,293,Eastern Mediterranean,17,B,A,Brain,36-50,"Breathlessness, Headache, Cough",J&J
+USA,595713,25819,435158,134736,78,5,48,South-East Asia,43,AB,B,Kidney,36-50,Breathlessness,AstraZeneca
+India,316487,12918,250849,52720,142,8,40,South-East Asia,84,B,A,Liver,0-18,"Breathlessness, Headache",AstraZeneca
+Italy,161689,2594,98395,60700,56,5,24,Western Pacific,45,B,O,Kidney,66+,"Headache, Fever, Breathlessness",Sputnik V
+Russia,611719,49794,107799,454126,243,8,231,Europe,36,A,B,Brain,51-65,"Fever, Breathlessness",Pfizer
+Mexico,844142,14820,640707,188615,483,46,374,Europe,51,B,AB,Brain,66+,"Cough, Breathlessness, Fatigue",AstraZeneca
+Italy,681724,18585,202999,460140,84,2,26,South-East Asia,50,A,AB,Lungs,66+,"Fatigue, Fever",J&J
+Brazil,147299,5390,47735,94174,112,8,108,Africa,47,B,O,Kidney,0-18,"Headache, Loss of taste",Sputnik V
+Italy,982055,92259,114125,775671,31,2,8,Western Pacific,0,O,A,Heart,0-18,Loss of taste,AstraZeneca
+Brazil,579603,45263,454922,79418,602,7,109,Eastern Mediterranean,35,A,AB,Lungs,66+,"Cough, Fever",J&J
+Italy,622907,42696,276191,304020,833,52,227,South-East Asia,48,AB,O,Liver,19-35,Fatigue,J&J
+France,397409,39645,354315,3449,22,1,6,Europe,99,AB,A,Liver,0-18,Breathlessness,Sputnik V
+France,559442,51606,257436,250400,763,49,393,Americas,71,O,O,Kidney,51-65,"Cough, Fever, Breathlessness",Pfizer
+Brazil,341107,16673,199617,124817,872,57,513,Europe,52,O,O,Liver,36-50,"Fatigue, Headache",AstraZeneca
+Italy,487725,19622,315261,152842,615,27,403,Americas,79,A,A,Heart,51-65,Fever,AstraZeneca
+Spain,221166,10986,102661,107519,204,6,47,South-East Asia,78,B,O,Kidney,0-18,"Fever, Headache",Moderna
+Russia,982785,48393,933579,813,765,1,15,Americas,60,AB,B,Liver,0-18,"Loss of taste, Cough, Fever",J&J
+Spain,486540,1899,461245,23396,640,12,74,Americas,97,AB,AB,Brain,0-18,"Loss of taste, Breathlessness",J&J
+Brazil,736438,40771,268246,427421,180,13,142,Europe,97,AB,B,Lungs,51-65,"Fever, Headache",Pfizer
+USA,60975,5957,47482,7536,876,69,88,Americas,82,B,O,Lungs,19-35,"Headache, Fatigue, Cough",Sputnik V
+Spain,47330,1218,37826,8286,691,40,284,Africa,24,B,B,Liver,66+,"Cough, Loss of taste, Breathlessness",AstraZeneca
+USA,765777,500,696867,68410,11,1,4,Americas,63,A,AB,Liver,0-18,"Breathlessness, Fever",AstraZeneca
+USA,249692,7369,172676,69647,567,9,503,Eastern Mediterranean,24,A,B,Lungs,51-65,Fatigue,AstraZeneca
+Mexico,755338,55061,354183,346094,312,7,26,Africa,26,AB,A,Liver,66+,Fever,Moderna
+UK,395101,2251,143993,248857,779,30,756,Europe,21,A,A,Kidney,36-50,"Fever, Breathlessness, Loss of taste",Moderna
+USA,562126,1495,126884,433747,638,45,55,Europe,27,O,O,Heart,66+,"Headache, Cough, Breathlessness",J&J
+India,275684,16505,89031,170148,450,14,159,Western Pacific,31,A,AB,Heart,36-50,Loss of taste,Pfizer
+Brazil,545367,31653,306491,207223,775,59,420,Western Pacific,25,B,AB,Lungs,51-65,Loss of taste,AstraZeneca
+India,407371,32354,198649,176368,392,38,129,South-East Asia,85,B,O,Kidney,0-18,"Cough, Fatigue",Moderna
+UK,138113,10449,105069,22595,548,6,35,Americas,9,O,A,Lungs,36-50,"Fever, Breathlessness, Loss of taste",Sputnik V
+UK,41622,2675,3637,35310,441,30,28,Western Pacific,65,AB,AB,Brain,66+,"Fatigue, Loss of taste, Fever",J&J
+Mexico,98322,395,27141,70786,292,5,84,Africa,94,O,A,Heart,0-18,"Cough, Fatigue, Fever",J&J
+Germany,805794,459,132267,673068,640,57,523,Europe,47,O,AB,Heart,19-35,"Fever, Fatigue",AstraZeneca
+Mexico,469236,39571,407058,22607,206,20,197,Western Pacific,56,O,B,Heart,36-50,"Breathlessness, Headache",J&J
+Spain,650010,16932,146799,486279,464,7,60,Eastern Mediterranean,61,AB,AB,Kidney,51-65,Fatigue,Pfizer
+Germany,547763,8884,302826,236053,986,58,393,Africa,13,O,O,Heart,19-35,Cough,AstraZeneca
+Italy,212536,15750,133254,63532,786,52,339,Africa,4,A,O,Heart,66+,Cough,J&J
+Russia,538339,14628,134488,389223,590,7,587,Europe,80,B,B,Liver,36-50,"Fever, Fatigue, Cough",AstraZeneca
+Mexico,593302,29931,536482,26889,825,65,489,South-East Asia,55,A,O,Kidney,19-35,"Fatigue, Fever",AstraZeneca
+USA,813694,32,21640,792022,712,41,224,Western Pacific,4,A,AB,Lungs,0-18,"Headache, Breathlessness, Loss of taste",AstraZeneca
+France,836707,66358,483821,286528,963,41,508,Eastern Mediterranean,38,O,AB,Lungs,66+,Cough,AstraZeneca
+Italy,42208,1097,3432,37679,990,38,20,Europe,82,A,AB,Lungs,0-18,Breathlessness,Pfizer
+Germany,487235,20595,74602,392038,989,81,105,Western Pacific,0,O,AB,Liver,66+,Cough,J&J
+Mexico,529261,36412,454621,38228,788,46,490,South-East Asia,23,B,B,Heart,19-35,Loss of taste,AstraZeneca
+UK,475836,34120,9598,432118,376,24,67,Africa,36,O,AB,Kidney,51-65,"Loss of taste, Fatigue",Sputnik V
+Spain,546645,54615,53699,438331,832,54,349,Europe,58,AB,O,Kidney,19-35,"Fatigue, Fever, Breathlessness",Pfizer
+Spain,594440,13107,447803,133530,878,22,240,Americas,59,O,B,Lungs,66+,"Breathlessness, Loss of taste, Fever",AstraZeneca
+Italy,320966,15108,81021,224837,282,5,258,South-East Asia,91,AB,O,Heart,0-18,"Fatigue, Cough",Moderna
+UK,576798,5892,326249,244657,257,2,42,Western Pacific,44,B,O,Liver,66+,Breathlessness,Pfizer
+France,409689,35027,230227,144435,420,18,269,Eastern Mediterranean,72,A,B,Heart,0-18,"Loss of taste, Breathlessness",Sputnik V
+France,941083,16025,376244,548814,539,10,333,Africa,50,O,O,Liver,66+,Headache,Moderna
+UK,578151,11793,139077,427281,529,29,291,Americas,72,O,O,Heart,51-65,Fever,Sputnik V
+Spain,255662,9773,66790,179099,762,59,175,Eastern Mediterranean,28,B,B,Lungs,36-50,Fever,J&J
+Brazil,348650,28984,131293,188373,375,19,179,Western Pacific,37,O,A,Brain,19-35,Loss of taste,J&J
+Mexico,997408,39250,467988,490170,12,0,3,South-East Asia,82,A,AB,Kidney,66+,"Headache, Loss of taste",AstraZeneca
+Italy,32526,2112,23181,7233,420,21,100,South-East Asia,9,AB,B,Heart,36-50,"Cough, Breathlessness",J&J
+Mexico,203704,3372,110958,89374,841,75,580,Africa,60,O,AB,Brain,19-35,Loss of taste,J&J
+France,692391,1168,387818,303405,842,65,314,Africa,14,A,A,Lungs,0-18,"Headache, Loss of taste, Fatigue",Pfizer
+USA,325326,27503,217286,80537,521,9,477,Africa,44,O,O,Liver,19-35,"Fatigue, Cough, Loss of taste",Pfizer
+Mexico,174090,16591,802,156697,974,27,178,Europe,64,B,A,Brain,36-50,"Fever, Loss of taste, Headache",Pfizer
+Spain,511226,37370,366388,107468,437,32,90,South-East Asia,71,B,B,Liver,36-50,"Fever, Breathlessness, Loss of taste",Sputnik V
+UK,509789,16010,221646,272133,949,88,167,Western Pacific,10,B,A,Heart,36-50,"Fatigue, Loss of taste",J&J
+Germany,719459,11290,587544,120625,80,2,21,South-East Asia,90,B,A,Kidney,66+,Cough,Sputnik V
+Mexico,229290,11589,187063,30638,520,19,349,Americas,78,B,B,Brain,0-18,"Fever, Loss of taste, Cough",Pfizer
+USA,689663,34704,206113,448846,586,24,543,Africa,19,B,A,Kidney,66+,Breathlessness,Pfizer
+Brazil,932975,32218,425271,475486,691,38,478,Eastern Mediterranean,33,B,B,Liver,66+,"Cough, Fatigue, Fever",J&J
+USA,934072,26779,848852,58441,401,17,254,South-East Asia,39,AB,A,Kidney,19-35,Headache,Sputnik V
+Mexico,292523,18797,3951,269775,662,8,123,Western Pacific,77,O,B,Brain,19-35,"Loss of taste, Breathlessness",AstraZeneca
+Russia,533078,25285,44021,463772,814,50,659,Africa,41,A,A,Lungs,36-50,Cough,Pfizer
+India,323617,20642,142725,160250,440,22,371,Africa,70,A,A,Lungs,51-65,"Fatigue, Loss of taste",Pfizer
+Mexico,877783,14583,161875,701325,468,33,385,Europe,74,A,AB,Brain,0-18,"Fatigue, Loss of taste",J&J
+Brazil,214221,10311,108048,95862,581,50,561,Eastern Mediterranean,19,AB,A,Brain,19-35,"Fatigue, Breathlessness",Moderna
+UK,470695,30735,52496,387464,774,17,203,South-East Asia,5,O,AB,Lungs,36-50,"Fatigue, Fever, Headache",Moderna
+UK,534706,13517,271197,249992,313,13,250,South-East Asia,48,A,B,Heart,19-35,Fever,Sputnik V
+Germany,382395,23404,243541,115450,938,19,691,Africa,61,A,B,Brain,51-65,"Fatigue, Headache, Loss of taste",Pfizer
+Spain,977984,54322,665370,258292,202,9,145,Eastern Mediterranean,58,O,B,Brain,36-50,"Breathlessness, Cough",J&J
+Italy,885118,28454,822657,34007,754,75,199,Western Pacific,98,O,AB,Brain,0-18,"Fever, Fatigue, Loss of taste",J&J
+Russia,322170,8382,283210,30578,691,1,617,Eastern Mediterranean,76,AB,AB,Brain,66+,Loss of taste,Sputnik V
+Russia,627118,12825,192536,421757,182,17,149,Eastern Mediterranean,97,A,O,Kidney,36-50,"Loss of taste, Fever",Pfizer
+France,334287,6753,157774,169760,710,21,656,Africa,13,O,AB,Kidney,19-35,"Breathlessness, Loss of taste, Cough",Sputnik V
+UK,296468,10748,196272,89448,71,1,50,Africa,87,AB,AB,Lungs,66+,"Cough, Loss of taste, Fatigue",Moderna
+France,347328,29522,67239,250567,955,7,297,Africa,66,AB,B,Heart,0-18,"Headache, Fever",J&J
+UK,251613,8073,8141,235399,466,43,408,Africa,65,B,AB,Kidney,51-65,"Fever, Loss of taste",AstraZeneca
+India,505472,37431,16894,451147,117,0,82,Eastern Mediterranean,88,B,A,Kidney,36-50,"Breathlessness, Fever",Sputnik V
+Russia,261684,6425,36495,218764,463,23,305,Western Pacific,53,O,AB,Lungs,19-35,"Cough, Fever, Fatigue",Pfizer
+Germany,307793,2002,146326,159465,279,24,149,South-East Asia,26,B,B,Kidney,51-65,"Cough, Loss of taste",Moderna
+Brazil,730922,61598,111668,557656,212,3,187,Americas,25,B,O,Lungs,0-18,"Fatigue, Fever",AstraZeneca
+India,125725,10359,33847,81519,604,1,548,Americas,48,B,A,Brain,0-18,"Fatigue, Cough",J&J
+Brazil,572620,38316,441399,92905,835,12,88,Americas,69,B,B,Lungs,66+,"Headache, Fatigue, Fever",Moderna
+France,174056,15455,155538,3063,669,29,61,South-East Asia,21,B,B,Brain,19-35,Breathlessness,AstraZeneca
+Italy,781161,26239,522284,232638,101,9,75,Eastern Mediterranean,54,O,AB,Liver,51-65,Cough,Pfizer
+USA,208657,17092,36247,155318,277,26,103,South-East Asia,29,B,AB,Heart,19-35,"Cough, Breathlessness",Pfizer
+Germany,158492,10982,140849,6661,482,0,88,Europe,56,AB,A,Kidney,36-50,"Fever, Cough",AstraZeneca
+USA,936314,11267,189375,735672,899,82,892,Africa,98,AB,AB,Heart,66+,"Loss of taste, Breathlessness",Moderna
+India,1417,115,579,723,258,24,91,Western Pacific,57,B,AB,Heart,51-65,Fever,AstraZeneca
+Germany,617316,50528,330729,236059,23,0,9,Europe,42,O,AB,Heart,0-18,"Loss of taste, Headache, Cough",AstraZeneca
+Germany,620631,23753,510066,86812,319,31,138,Americas,25,B,B,Kidney,0-18,"Fever, Cough, Loss of taste",Pfizer
+Germany,860527,40495,28234,791798,47,3,8,Eastern Mediterranean,80,A,B,Brain,19-35,"Fever, Fatigue, Breathlessness",Moderna
+India,748242,51547,306432,390263,36,2,11,Americas,11,AB,B,Kidney,36-50,"Headache, Cough, Fatigue",Pfizer
+Italy,741290,4850,367260,369180,944,6,141,Europe,90,AB,A,Heart,51-65,Cough,Sputnik V
+USA,337595,21761,169907,145927,904,70,843,Europe,39,A,B,Liver,36-50,"Fatigue, Loss of taste, Fever",Sputnik V
+USA,673746,46342,382401,245003,820,26,88,Eastern Mediterranean,64,B,B,Heart,19-35,Breathlessness,Sputnik V
+Germany,403187,31344,214666,157177,353,22,309,Americas,0,B,AB,Kidney,51-65,"Loss of taste, Fever, Breathlessness",Moderna
+USA,822036,48239,316779,457018,707,16,398,South-East Asia,19,O,O,Kidney,66+,"Cough, Headache",AstraZeneca
+UK,850687,894,840007,9786,896,25,533,South-East Asia,17,O,B,Brain,66+,"Headache, Breathlessness",Sputnik V
+Spain,786631,33212,171987,581432,618,22,598,Europe,50,O,AB,Heart,19-35,"Loss of taste, Cough, Breathlessness",J&J
+Italy,56782,3330,45706,7746,644,6,57,Europe,1,AB,A,Kidney,0-18,"Cough, Headache",Moderna
+Mexico,70856,1626,12729,56501,443,23,415,Europe,81,O,O,Liver,0-18,"Loss of taste, Fever, Cough",Sputnik V
+UK,785195,30452,272708,482035,989,3,207,Eastern Mediterranean,81,A,A,Lungs,0-18,"Fever, Cough",Moderna
+Italy,766239,74714,485825,205700,57,3,55,Western Pacific,3,A,O,Heart,19-35,Cough,Sputnik V
+Brazil,125792,8328,63546,53918,959,83,178,Western Pacific,64,O,A,Brain,19-35,"Breathlessness, Loss of taste, Headache",Pfizer
+Italy,384536,12652,166435,205449,328,25,3,Americas,71,A,AB,Liver,36-50,"Headache, Cough",Pfizer
+Spain,738240,20837,654642,62761,867,78,513,South-East Asia,92,AB,O,Liver,66+,Breathlessness,Sputnik V
+Mexico,97996,369,49883,47744,441,41,362,Africa,94,O,AB,Liver,36-50,"Fever, Headache",Pfizer
+Brazil,547919,2180,201699,344040,659,19,629,Eastern Mediterranean,84,B,AB,Heart,51-65,Headache,Pfizer
+Germany,984350,14942,431841,537567,521,14,201,Europe,36,AB,O,Liver,51-65,"Loss of taste, Fatigue, Cough",Pfizer
+Germany,844152,76146,660536,107470,566,8,339,Americas,83,O,A,Lungs,0-18,Fever,Pfizer
+Mexico,367732,10847,231739,125146,320,28,15,Eastern Mediterranean,52,AB,AB,Liver,36-50,Headache,Sputnik V
+Germany,525361,22159,310792,192410,384,24,139,Eastern Mediterranean,49,B,A,Heart,36-50,Fever,AstraZeneca
+Mexico,911140,34033,660190,216917,733,28,553,Europe,1,AB,B,Liver,66+,"Loss of taste, Fever",Moderna
+UK,359610,10114,157064,192432,147,2,116,Europe,72,AB,B,Liver,36-50,"Fatigue, Fever",Pfizer
+Brazil,24536,913,20461,3162,256,16,144,Western Pacific,33,O,AB,Liver,36-50,"Fatigue, Fever, Cough",Pfizer
+UK,367256,15670,198449,153137,808,29,2,Western Pacific,0,O,AB,Lungs,66+,Breathlessness,Moderna
+USA,330985,22533,91528,216924,112,1,24,Eastern Mediterranean,90,A,O,Heart,66+,"Headache, Loss of taste, Fatigue",Moderna
+Russia,607917,49620,303963,254334,960,93,812,South-East Asia,89,O,A,Heart,36-50,"Fever, Cough",AstraZeneca
+UK,776616,2037,603959,170620,921,70,900,Eastern Mediterranean,60,AB,AB,Heart,51-65,Headache,J&J
+Mexico,440586,22225,112926,305435,538,21,485,Europe,42,B,O,Kidney,0-18,"Headache, Fatigue",Sputnik V
+Germany,697391,21808,185837,489746,972,23,249,South-East Asia,57,O,O,Liver,66+,Fatigue,AstraZeneca
+UK,342150,11388,106155,224607,684,67,249,Western Pacific,44,AB,AB,Liver,66+,"Fatigue, Fever, Headache",Moderna
+Germany,356419,24579,293237,38603,854,33,162,Europe,87,B,AB,Heart,0-18,"Headache, Fatigue, Cough",J&J
+Germany,136727,1004,83674,52049,790,23,44,Africa,62,O,B,Lungs,36-50,"Fatigue, Breathlessness, Fever",Moderna
+USA,458321,45165,256848,156308,675,8,329,Western Pacific,74,AB,O,Kidney,51-65,"Headache, Fatigue",AstraZeneca
+Italy,179305,15494,99484,64327,474,10,317,Africa,45,B,B,Brain,66+,Cough,Sputnik V
+India,479925,13443,329773,136709,870,35,763,Western Pacific,33,AB,O,Lungs,0-18,"Breathlessness, Loss of taste, Cough",AstraZeneca
+Germany,588383,5218,307964,275201,329,17,181,Africa,80,B,A,Kidney,0-18,"Breathlessness, Loss of taste",J&J
+Brazil,308808,7177,58106,243525,610,28,570,South-East Asia,22,O,O,Lungs,19-35,"Headache, Fatigue, Loss of taste",J&J
+USA,684573,1166,448238,235169,746,26,330,Europe,17,B,A,Kidney,36-50,"Headache, Fatigue, Loss of taste",AstraZeneca
+USA,801698,68987,391055,341656,249,18,2,Western Pacific,84,B,O,Brain,66+,"Fatigue, Headache, Fever",Sputnik V
+Russia,524340,37349,451879,35112,926,58,485,Americas,67,AB,O,Kidney,19-35,Fatigue,Sputnik V
+Russia,646636,52392,507718,86526,404,2,167,Africa,60,B,A,Lungs,19-35,Fever,Moderna
+Russia,24843,1555,3166,20122,550,47,132,Eastern Mediterranean,3,B,A,Brain,19-35,Cough,Pfizer
+Russia,265905,10406,11905,243594,468,5,67,South-East Asia,69,B,B,Kidney,51-65,"Breathlessness, Fatigue",Pfizer
+India,860357,38202,93175,728980,625,48,519,Europe,70,B,B,Kidney,51-65,Headache,J&J
+Russia,784302,9646,338530,436126,44,0,1,Americas,88,O,B,Heart,66+,"Fever, Headache",J&J
+UK,652782,15084,106499,531199,186,17,55,Eastern Mediterranean,33,B,A,Lungs,0-18,"Fatigue, Loss of taste",Sputnik V
+UK,514465,31980,313809,168676,35,0,27,Europe,90,O,AB,Brain,19-35,"Fatigue, Breathlessness, Cough",AstraZeneca
+France,740970,53615,17229,670126,854,41,714,Western Pacific,87,AB,O,Heart,0-18,"Breathlessness, Cough",J&J
+UK,968318,58280,540522,369516,977,34,222,Western Pacific,98,B,B,Lungs,0-18,"Fatigue, Loss of taste",Pfizer
+Spain,276838,16651,72709,187478,808,35,380,Europe,8,A,A,Lungs,66+,"Cough, Loss of taste, Fever",Moderna
+Spain,374898,22948,27780,324170,168,13,163,Africa,45,O,O,Heart,51-65,"Headache, Cough",AstraZeneca
+Russia,59051,4445,29073,25533,480,34,208,Western Pacific,16,AB,O,Lungs,36-50,Breathlessness,J&J
+Italy,231519,3952,91083,136484,398,33,80,Africa,98,AB,A,Brain,0-18,"Fever, Fatigue",Sputnik V
+Brazil,513661,48605,437609,27447,778,9,204,Europe,28,AB,AB,Kidney,51-65,Breathlessness,Sputnik V
+Spain,528384,11673,448839,67872,766,41,454,Africa,71,O,AB,Liver,66+,Loss of taste,Sputnik V
+Italy,612624,36304,524779,51541,596,21,520,South-East Asia,77,B,B,Kidney,51-65,"Breathlessness, Loss of taste",Pfizer
+Italy,931491,20756,352898,557837,924,86,824,South-East Asia,77,AB,A,Kidney,19-35,"Fever, Breathlessness",AstraZeneca
+Germany,945962,39118,422803,484041,358,10,139,Americas,27,O,AB,Liver,51-65,Cough,Moderna
+India,988568,98540,22114,867914,789,72,768,Western Pacific,36,O,A,Liver,19-35,"Breathlessness, Cough, Fever",AstraZeneca
+UK,599459,42583,329016,227860,868,34,499,Americas,71,AB,AB,Heart,51-65,"Headache, Cough, Breathlessness",J&J
+Spain,598563,32116,552387,14060,281,1,102,Eastern Mediterranean,34,O,O,Lungs,0-18,"Fatigue, Breathlessness",Sputnik V
+USA,236552,10333,102190,124029,779,40,218,Africa,63,AB,AB,Kidney,51-65,"Fatigue, Loss of taste, Cough",AstraZeneca
+Brazil,324606,31630,192319,100657,18,1,16,Africa,93,B,AB,Heart,19-35,Headache,Moderna
+USA,113752,3191,23145,87416,616,13,574,Africa,1,AB,A,Brain,0-18,"Headache, Loss of taste, Cough",J&J
+India,578584,55023,72892,450669,694,65,174,Western Pacific,12,A,AB,Lungs,0-18,Cough,Moderna
+Brazil,37299,1417,31655,4227,919,44,669,Europe,69,AB,B,Liver,0-18,Fever,Sputnik V
+Italy,234032,5225,120582,108225,137,8,119,Africa,40,A,A,Liver,36-50,"Fatigue, Breathlessness",AstraZeneca
+France,571394,11759,507523,52112,111,5,85,Eastern Mediterranean,89,O,O,Kidney,36-50,Breathlessness,J&J
+Spain,902191,24954,579344,297893,642,26,212,Europe,14,B,AB,Kidney,19-35,Fever,Sputnik V
+UK,175500,4169,6503,164828,707,50,215,Western Pacific,45,A,O,Liver,51-65,Headache,Sputnik V
+Italy,744321,23835,683101,37385,999,34,907,Africa,27,B,AB,Kidney,51-65,Fatigue,J&J
+Spain,631351,21857,512977,96517,162,1,143,Africa,21,O,A,Lungs,0-18,"Fever, Fatigue, Cough",Sputnik V
+Mexico,779728,64622,129680,585426,810,25,561,Americas,5,B,B,Brain,66+,"Fatigue, Fever, Loss of taste",Pfizer
+USA,840858,70719,417573,352566,781,59,276,Western Pacific,5,A,AB,Lungs,19-35,"Cough, Fatigue, Breathlessness",J&J
+Russia,850679,15949,426791,407939,717,9,466,Eastern Mediterranean,20,B,A,Brain,66+,"Cough, Headache",J&J
+Italy,30481,784,21276,8421,464,2,192,Europe,34,O,AB,Kidney,19-35,"Fever, Headache",AstraZeneca
+Brazil,562453,23293,306624,232536,982,59,34,Western Pacific,92,A,O,Liver,51-65,Headache,Pfizer
+Italy,588473,21524,535581,31368,208,9,31,Western Pacific,60,A,O,Lungs,51-65,"Headache, Breathlessness",Pfizer
+Russia,373568,21524,4104,347940,718,10,179,Africa,35,O,A,Heart,0-18,"Fatigue, Cough",Sputnik V
+France,735041,63166,208901,462974,832,34,498,Western Pacific,3,A,AB,Lungs,36-50,Fever,Moderna
+UK,823120,52847,571801,198472,877,14,34,Europe,45,O,B,Liver,51-65,"Loss of taste, Cough, Breathlessness",Moderna
+Spain,145345,6838,6485,132022,427,24,364,Americas,31,B,O,Brain,51-65,Headache,AstraZeneca
+France,564621,43466,45609,475546,680,49,431,Western Pacific,23,AB,A,Liver,19-35,"Loss of taste, Breathlessness",Moderna
+Germany,414821,36837,151712,226272,839,10,400,Americas,47,A,A,Liver,36-50,"Headache, Breathlessness",Moderna
+UK,158282,7467,57931,92884,303,12,8,Western Pacific,56,AB,B,Liver,0-18,Headache,Pfizer
+Mexico,429439,25460,28670,375309,44,3,26,Western Pacific,31,AB,A,Heart,0-18,"Fatigue, Headache",Pfizer
+UK,678466,5681,201253,471532,469,10,372,Africa,69,O,AB,Brain,0-18,"Cough, Fatigue",Sputnik V
+Brazil,238681,16683,214430,7568,386,6,207,Eastern Mediterranean,11,B,B,Kidney,36-50,"Loss of taste, Fever",Moderna
+Russia,222536,15279,40227,167030,994,59,936,South-East Asia,1,O,A,Lungs,36-50,"Cough, Fever, Breathlessness",Pfizer
+Italy,786880,22746,167200,596934,163,12,112,Africa,44,O,B,Brain,0-18,"Headache, Loss of taste, Cough",Moderna
+Brazil,123979,21,55791,68167,592,11,127,Americas,78,A,B,Lungs,19-35,"Fatigue, Fever",Moderna
+Spain,840143,42517,36011,761615,141,0,141,Europe,62,AB,B,Heart,0-18,Fatigue,J&J
+India,125875,2174,86530,37171,594,35,467,Europe,26,O,O,Brain,19-35,"Cough, Loss of taste",Moderna
+Brazil,582006,15825,529553,36628,705,63,199,South-East Asia,47,O,AB,Liver,0-18,"Loss of taste, Headache",AstraZeneca
+Russia,701647,28648,215890,457109,901,1,335,Western Pacific,57,B,O,Lungs,51-65,"Fever, Fatigue",Pfizer
+Italy,164761,12436,104591,47734,133,11,65,Western Pacific,47,A,O,Liver,0-18,Fever,Sputnik V
+Spain,889872,82471,687767,119634,7,0,0,Americas,85,B,B,Kidney,0-18,"Breathlessness, Cough",Sputnik V
+Italy,354142,9038,239734,105370,950,81,15,Eastern Mediterranean,89,O,B,Kidney,51-65,"Loss of taste, Fever, Breathlessness",Pfizer
+Spain,142032,7864,73783,60385,604,5,171,South-East Asia,22,O,B,Lungs,36-50,"Breathlessness, Cough, Loss of taste",AstraZeneca
+Russia,861822,42007,568077,251738,331,8,96,Europe,19,A,A,Lungs,19-35,Fatigue,Sputnik V
+UK,355183,16613,293186,45384,63,4,41,Western Pacific,7,AB,O,Lungs,0-18,"Headache, Breathlessness, Fever",Sputnik V
+Russia,252937,10864,40595,201478,3,0,2,Western Pacific,46,O,A,Liver,0-18,"Breathlessness, Fever, Headache",Moderna
+Mexico,364096,23643,166308,174145,376,26,216,Americas,35,A,O,Liver,0-18,"Fatigue, Headache",Moderna
+USA,8080,528,3505,4047,304,3,251,Europe,95,A,O,Liver,66+,"Cough, Headache",Pfizer
+Spain,726144,33113,432407,260624,112,7,92,Eastern Mediterranean,54,A,A,Liver,19-35,"Breathlessness, Loss of taste, Fatigue",AstraZeneca
+Germany,309766,18883,210373,80510,732,71,465,Europe,87,B,AB,Heart,19-35,"Cough, Headache, Fatigue",AstraZeneca
+Mexico,306300,16424,115076,174800,735,63,224,Western Pacific,39,O,A,Heart,19-35,"Breathlessness, Cough",Moderna
+Mexico,542447,46217,216978,279252,915,20,404,Americas,19,B,AB,Heart,51-65,Fatigue,Moderna
+Germany,499740,658,489879,9203,323,7,272,South-East Asia,70,A,O,Lungs,19-35,"Cough, Fatigue",Moderna
+India,231437,7191,116567,107679,90,6,19,Western Pacific,18,AB,B,Brain,0-18,Headache,Pfizer
+Germany,614036,60476,514103,39457,477,5,412,Americas,83,B,O,Heart,36-50,"Fatigue, Loss of taste",AstraZeneca
+Italy,207315,6130,13130,188055,127,10,46,Western Pacific,68,O,A,Brain,0-18,"Headache, Fatigue, Cough",Pfizer
+Italy,683000,63469,15254,604277,153,1,38,South-East Asia,4,B,A,Liver,36-50,Fever,Sputnik V
+Germany,320013,13256,211749,95008,611,3,566,Eastern Mediterranean,34,B,A,Liver,66+,"Fever, Cough, Fatigue",Pfizer
+Russia,382342,37039,286499,58804,130,8,97,South-East Asia,22,B,A,Lungs,0-18,"Breathlessness, Cough, Loss of taste",AstraZeneca
+Mexico,554838,2338,176874,375626,504,26,502,Eastern Mediterranean,91,A,B,Lungs,0-18,Headache,Moderna
+Mexico,569327,7053,317201,245073,934,59,119,Europe,67,A,A,Kidney,0-18,"Breathlessness, Cough, Headache",J&J
+Brazil,943013,69593,560025,313395,217,6,164,Americas,58,B,O,Liver,36-50,"Fever, Fatigue",Moderna
+India,211688,10908,130668,70112,995,11,492,Americas,32,B,A,Brain,19-35,"Headache, Fatigue, Cough",Pfizer
+Germany,159245,15833,132129,11283,662,36,69,Americas,52,AB,O,Liver,51-65,Loss of taste,AstraZeneca
+Spain,690380,67156,17082,606142,140,5,57,Western Pacific,40,B,O,Kidney,36-50,"Breathlessness, Loss of taste",Sputnik V
+Germany,906539,87554,18465,800520,393,24,302,Eastern Mediterranean,13,AB,AB,Kidney,0-18,"Cough, Fatigue, Breathlessness",J&J
+Brazil,363437,30900,88354,244183,50,0,19,Eastern Mediterranean,69,A,A,Liver,51-65,"Breathlessness, Fatigue, Fever",Pfizer
+Germany,534834,39315,31718,463801,402,18,372,Europe,51,O,AB,Brain,51-65,"Breathlessness, Loss of taste",J&J
+Italy,415317,28315,379620,7382,510,41,461,Eastern Mediterranean,10,O,B,Heart,0-18,Breathlessness,Sputnik V
+India,663996,8407,47995,607594,475,9,209,South-East Asia,87,AB,B,Liver,51-65,"Headache, Breathlessness, Fever",Sputnik V
+Mexico,20566,369,12127,8070,73,2,0,Eastern Mediterranean,57,O,A,Kidney,19-35,Fever,Pfizer
+France,997455,80012,892248,25195,700,0,84,Europe,76,O,B,Brain,36-50,Fatigue,AstraZeneca
+Brazil,764174,51141,226006,487027,581,14,414,Eastern Mediterranean,5,B,A,Heart,51-65,"Cough, Loss of taste, Fever",Sputnik V
+Mexico,43251,2026,17102,24123,276,26,261,Eastern Mediterranean,31,A,AB,Liver,19-35,"Fatigue, Breathlessness",Pfizer
+Spain,803583,24892,9421,769270,201,12,33,South-East Asia,5,O,A,Brain,66+,"Fatigue, Fever, Headache",AstraZeneca
+India,196098,17543,31875,146680,568,15,68,South-East Asia,50,A,AB,Brain,0-18,Breathlessness,AstraZeneca
+USA,387824,23368,346350,18106,934,17,8,Africa,7,O,B,Lungs,36-50,Headache,AstraZeneca
+Spain,756440,2521,751816,2103,15,0,5,Eastern Mediterranean,27,O,A,Heart,0-18,"Headache, Breathlessness, Cough",J&J
+Germany,264558,24914,95686,143958,595,31,39,Eastern Mediterranean,17,B,A,Brain,66+,Fatigue,Sputnik V
+Germany,95287,3308,41648,50331,361,21,78,Eastern Mediterranean,90,A,O,Brain,19-35,Loss of taste,Sputnik V
+Germany,440654,12627,284820,143207,395,37,375,Eastern Mediterranean,62,B,A,Kidney,0-18,Fatigue,Sputnik V
+Spain,847061,1358,59740,785963,697,68,122,Western Pacific,23,B,O,Brain,51-65,"Headache, Fever, Breathlessness",Pfizer
+France,211791,12619,108629,90543,417,22,263,Europe,56,B,O,Brain,36-50,"Loss of taste, Headache",AstraZeneca
+Russia,581224,31227,27622,522375,889,42,533,Eastern Mediterranean,56,A,B,Heart,36-50,"Cough, Headache",AstraZeneca
+Russia,833626,34797,402619,396210,756,12,430,Africa,98,B,O,Brain,36-50,"Loss of taste, Breathlessness, Cough",J&J
+Mexico,850816,54692,275368,520756,947,59,293,Americas,21,B,AB,Lungs,19-35,Loss of taste,J&J
+India,219660,3164,44339,172157,796,25,335,Europe,50,A,B,Kidney,66+,Breathlessness,Pfizer
+Russia,827369,61213,287906,478250,280,13,219,South-East Asia,77,AB,B,Lungs,0-18,Headache,Moderna
+Brazil,997242,59465,243889,693888,11,0,3,Europe,42,A,O,Heart,36-50,"Fatigue, Breathlessness",J&J
+Russia,143489,6615,113243,23631,618,41,447,Europe,21,O,A,Lungs,0-18,Headache,Moderna
+Spain,658141,45565,108777,503799,97,3,83,Africa,31,B,B,Brain,51-65,Headache,J&J
+France,218787,9020,149871,59896,507,39,171,Eastern Mediterranean,78,A,AB,Lungs,0-18,"Cough, Headache, Fever",AstraZeneca
+Germany,665557,17153,78860,569544,0,0,0,Western Pacific,88,A,A,Liver,0-18,"Loss of taste, Headache",J&J
+Brazil,120938,3369,110782,6787,28,1,14,Eastern Mediterranean,6,AB,B,Liver,51-65,Breathlessness,J&J
+Italy,52424,2006,31680,18738,446,12,420,Africa,36,AB,A,Liver,0-18,"Loss of taste, Fatigue",Sputnik V
+Russia,774122,60483,408534,305105,364,22,258,Americas,40,AB,B,Brain,66+,Cough,Sputnik V
+USA,656359,55136,338826,262397,388,23,142,South-East Asia,87,O,O,Liver,36-50,"Cough, Loss of taste",Pfizer
+UK,569199,21728,502009,45462,738,55,282,Africa,76,AB,AB,Brain,66+,"Fever, Breathlessness",Pfizer
+France,907557,76541,316628,514388,69,6,53,Eastern Mediterranean,84,B,O,Kidney,36-50,"Fever, Loss of taste, Cough",AstraZeneca
+Brazil,920622,88577,301548,530497,955,47,468,Western Pacific,21,O,A,Kidney,36-50,"Cough, Fatigue, Loss of taste",AstraZeneca
+France,751774,5339,738330,8105,110,5,93,Americas,60,AB,A,Kidney,66+,"Breathlessness, Fatigue",Pfizer
+Italy,877003,1130,536506,339367,409,8,108,Europe,39,O,O,Lungs,0-18,"Loss of taste, Fatigue, Headache",AstraZeneca
+France,274517,24954,25431,224132,434,15,86,Western Pacific,87,AB,AB,Lungs,66+,Breathlessness,Pfizer
+Brazil,978887,81552,682280,215055,542,33,23,South-East Asia,67,O,O,Kidney,36-50,"Loss of taste, Breathlessness, Headache",J&J
+India,729867,71956,335346,322565,250,0,106,Europe,49,B,B,Kidney,51-65,"Fever, Headache, Breathlessness",J&J
+India,410688,32520,21340,356828,541,7,67,Eastern Mediterranean,55,O,B,Brain,66+,"Headache, Cough",AstraZeneca
+Russia,57503,4578,49946,2979,12,0,12,South-East Asia,66,AB,B,Kidney,66+,Headache,AstraZeneca
+Germany,207225,6917,179649,20659,861,35,553,Americas,40,A,O,Kidney,0-18,Breathlessness,J&J
+India,170348,3044,46147,121157,398,19,233,South-East Asia,4,B,O,Heart,66+,"Headache, Loss of taste, Fever",Sputnik V
+Italy,487460,44741,416094,26625,569,5,476,Western Pacific,61,A,A,Liver,0-18,"Fever, Breathlessness",Pfizer
+Russia,856582,9075,337586,509921,514,35,444,Eastern Mediterranean,40,AB,A,Kidney,51-65,"Breathlessness, Fever, Fatigue",Moderna
+UK,875032,13261,202479,659292,613,46,434,South-East Asia,82,AB,B,Kidney,51-65,"Headache, Loss of taste",Pfizer
+Spain,255098,20516,67352,167230,813,66,302,Eastern Mediterranean,60,AB,A,Brain,66+,"Breathlessness, Cough",Sputnik V
+Mexico,618010,24994,432792,160224,128,0,47,Eastern Mediterranean,59,B,O,Kidney,0-18,"Fatigue, Breathlessness",AstraZeneca
+Russia,616000,25541,331620,258839,44,1,32,Eastern Mediterranean,40,AB,B,Kidney,66+,"Cough, Loss of taste",Pfizer
+Germany,734525,40804,213909,479812,930,4,374,Western Pacific,12,O,A,Heart,19-35,"Loss of taste, Headache, Breathlessness",AstraZeneca
+Spain,588032,45053,196078,346901,569,13,393,Eastern Mediterranean,85,AB,O,Brain,0-18,"Fever, Loss of taste",AstraZeneca
+Russia,775799,22089,143874,609836,392,10,92,Western Pacific,96,A,AB,Lungs,0-18,"Fever, Headache, Fatigue",Pfizer
+Spain,736439,53851,389667,292921,374,0,347,Americas,83,O,A,Heart,0-18,Fatigue,Sputnik V
+Mexico,527535,25093,151758,350684,664,52,413,Africa,58,B,B,Lungs,0-18,"Headache, Breathlessness, Fever",Moderna
+Brazil,380154,12590,202083,165481,450,27,369,South-East Asia,57,B,A,Lungs,36-50,Cough,Moderna
+France,183119,6773,67763,108583,186,9,66,Americas,95,AB,O,Liver,19-35,"Fever, Cough",J&J
+India,396887,26403,331611,38873,23,0,23,Europe,75,AB,O,Liver,66+,Headache,Sputnik V
+Spain,658379,19606,304640,334133,654,25,218,Africa,22,B,B,Kidney,0-18,"Cough, Fatigue, Loss of taste",Pfizer
+Spain,435949,6686,425578,3685,214,11,174,Africa,6,O,AB,Heart,0-18,"Breathlessness, Cough",J&J
+Mexico,179426,7745,140799,30882,277,9,152,Eastern Mediterranean,76,O,B,Lungs,51-65,"Breathlessness, Cough, Fatigue",J&J
+Spain,324977,7782,10753,306442,543,23,75,Americas,79,O,O,Liver,36-50,"Headache, Cough",Moderna
+Mexico,127446,3974,119320,4152,721,11,251,South-East Asia,65,O,O,Heart,36-50,Headache,Pfizer
+Italy,696546,15641,262701,418204,787,8,465,Western Pacific,12,B,O,Kidney,51-65,"Fatigue, Cough, Breathlessness",Pfizer
+India,351116,7182,63191,280743,168,11,73,Africa,86,AB,A,Kidney,19-35,"Breathlessness, Cough",J&J
+USA,260000,4816,118452,136732,980,4,209,Western Pacific,35,A,AB,Kidney,19-35,Breathlessness,AstraZeneca
+Russia,606254,15897,8288,582069,234,8,26,Western Pacific,77,B,B,Liver,66+,"Headache, Cough, Loss of taste",Sputnik V
+USA,717475,69879,516309,131287,694,17,160,Eastern Mediterranean,72,B,B,Heart,66+,Loss of taste,Moderna
+Mexico,792449,10187,399068,383194,637,38,83,Africa,72,B,A,Heart,36-50,Fatigue,Moderna
+India,947060,53517,578080,315463,589,15,377,South-East Asia,56,B,O,Liver,36-50,Cough,Sputnik V
+Spain,31040,903,27153,2984,689,58,500,Eastern Mediterranean,81,B,O,Brain,0-18,Headache,Moderna
+Mexico,747941,43048,169422,535471,889,67,517,Western Pacific,84,AB,A,Heart,0-18,"Breathlessness, Headache, Fever",J&J
+Russia,392071,17271,159306,215494,88,5,44,Africa,40,A,O,Lungs,36-50,"Loss of taste, Headache, Fatigue",Sputnik V
+Brazil,562516,3319,442604,116593,134,6,63,Africa,61,O,B,Liver,19-35,"Breathlessness, Fatigue, Headache",Pfizer
+France,742929,37364,372567,332998,714,64,18,Africa,99,AB,AB,Lungs,36-50,"Breathlessness, Headache, Cough",Sputnik V
+Russia,74808,1651,16038,57119,333,30,251,Eastern Mediterranean,97,B,AB,Heart,66+,"Cough, Breathlessness, Loss of taste",Moderna
+Brazil,46533,1380,6344,38809,163,1,144,Western Pacific,22,O,AB,Brain,51-65,"Headache, Cough, Fatigue",Pfizer
+Italy,756441,60601,652752,43088,765,19,320,Eastern Mediterranean,19,O,AB,Kidney,19-35,"Breathlessness, Loss of taste, Fatigue",J&J
+France,872171,76840,596509,198822,36,0,4,Western Pacific,62,AB,A,Heart,0-18,Fever,Moderna
+Russia,372991,8152,247987,116852,329,13,111,Americas,27,AB,AB,Lungs,36-50,"Fever, Loss of taste, Cough",J&J
+USA,632239,37996,474337,119906,753,8,465,Africa,67,O,O,Heart,51-65,"Headache, Breathlessness",Sputnik V
+Germany,427065,29042,34116,363907,716,60,588,South-East Asia,51,A,A,Brain,51-65,Breathlessness,AstraZeneca
+USA,559492,34636,283794,241062,548,2,127,Western Pacific,58,AB,A,Kidney,66+,Loss of taste,Moderna
+Italy,67539,3441,12249,51849,358,35,279,South-East Asia,29,O,O,Lungs,36-50,"Fatigue, Cough",Sputnik V
+Russia,480557,27430,279798,173329,646,14,27,Eastern Mediterranean,56,A,A,Heart,0-18,"Headache, Loss of taste",J&J
+Mexico,665865,51057,330636,284172,497,46,293,Eastern Mediterranean,67,AB,B,Kidney,19-35,"Loss of taste, Fever, Headache",Sputnik V
+Russia,853344,50816,63092,739436,907,69,241,Western Pacific,29,O,B,Kidney,66+,"Cough, Headache",Pfizer
+USA,870560,43355,469771,357434,967,49,24,South-East Asia,49,A,A,Liver,19-35,"Fever, Loss of taste, Headache",AstraZeneca
+India,698829,42634,538707,117488,798,0,784,South-East Asia,42,O,A,Brain,36-50,"Loss of taste, Breathlessness, Headache",AstraZeneca
+Spain,221511,14571,129194,77746,659,7,126,Western Pacific,78,O,O,Heart,66+,"Cough, Headache, Fever",AstraZeneca
+Russia,410940,31266,317236,62438,988,97,709,Europe,20,AB,B,Kidney,0-18,"Loss of taste, Fatigue",Pfizer
+Mexico,586362,37076,147760,401526,342,29,278,Africa,37,A,A,Liver,19-35,"Fever, Breathlessness, Loss of taste",J&J
+Spain,237849,20491,105465,111893,584,25,419,Eastern Mediterranean,93,B,O,Kidney,0-18,"Breathlessness, Fatigue, Fever",AstraZeneca
+India,604526,37719,399682,167125,505,22,476,South-East Asia,87,AB,AB,Heart,51-65,"Fever, Cough, Fatigue",Sputnik V
+UK,322360,5578,232029,84753,9,0,7,Europe,46,AB,B,Liver,19-35,"Loss of taste, Headache",AstraZeneca
+Russia,820592,11465,476069,333058,976,47,674,Africa,63,B,A,Liver,51-65,"Fatigue, Cough",Moderna
+Brazil,474404,3752,217273,253379,384,35,253,Eastern Mediterranean,87,AB,O,Lungs,51-65,"Breathlessness, Cough, Fatigue",AstraZeneca
+USA,523856,36235,35680,451941,511,19,276,Europe,2,O,O,Liver,0-18,"Cough, Headache",J&J
+Germany,892343,54082,590238,248023,785,14,132,Africa,35,A,B,Heart,66+,"Loss of taste, Breathlessness, Fatigue",AstraZeneca
+Spain,446535,16266,92166,338103,188,14,8,Western Pacific,99,O,AB,Heart,36-50,Fatigue,AstraZeneca
+India,247721,12544,200001,35176,463,15,308,Europe,76,AB,A,Lungs,66+,Cough,J&J
+Germany,426199,2007,135425,288767,978,59,851,Europe,52,A,O,Lungs,0-18,"Cough, Breathlessness",J&J
+Mexico,529679,23160,483464,23055,139,4,22,Americas,34,O,A,Brain,51-65,Fatigue,AstraZeneca
+Brazil,661911,31598,616982,13331,795,20,731,Eastern Mediterranean,2,A,A,Lungs,66+,"Loss of taste, Cough, Headache",Sputnik V
+Brazil,542018,3333,26104,512581,919,72,878,Africa,19,B,B,Heart,36-50,Headache,J&J
+Germany,665702,36589,391872,237241,307,6,169,South-East Asia,69,B,A,Kidney,51-65,"Breathlessness, Fatigue, Loss of taste",AstraZeneca
+Brazil,70716,6531,55929,8256,243,23,214,Western Pacific,20,B,O,Liver,36-50,"Fever, Loss of taste",Moderna
+Mexico,41415,2810,16104,22501,67,5,8,South-East Asia,60,O,O,Liver,66+,"Fever, Breathlessness",Moderna
+France,24822,552,21066,3204,555,49,34,Western Pacific,33,AB,O,Kidney,19-35,"Loss of taste, Fever, Fatigue",Sputnik V
+Mexico,646392,62322,187855,396215,692,6,178,Eastern Mediterranean,28,A,O,Kidney,36-50,"Fever, Breathlessness, Loss of taste",AstraZeneca
+Russia,152396,11212,25639,115545,380,13,374,Americas,19,O,A,Heart,0-18,"Fatigue, Fever",Moderna
+Italy,397043,38917,297999,60127,641,17,201,South-East Asia,35,O,O,Lungs,51-65,"Loss of taste, Headache",J&J
+Russia,776466,51799,578116,146551,359,6,4,Americas,83,AB,O,Heart,0-18,"Fatigue, Breathlessness",J&J
+India,601449,55605,287865,257979,825,0,435,Eastern Mediterranean,75,B,O,Liver,0-18,"Breathlessness, Loss of taste",Sputnik V
+India,190925,13402,85892,91631,449,39,161,Europe,51,O,AB,Lungs,19-35,Cough,Sputnik V
+Russia,728894,53612,114868,560414,591,8,114,Africa,80,A,A,Heart,36-50,"Fever, Fatigue",Moderna
+Italy,778515,21553,223110,533852,675,52,44,Americas,17,AB,O,Heart,51-65,"Loss of taste, Fever",AstraZeneca
+Russia,161912,13124,82098,66690,682,20,643,Americas,48,O,AB,Heart,0-18,"Loss of taste, Fever, Fatigue",J&J
+India,265359,5805,228766,30788,192,18,169,Africa,37,O,AB,Brain,0-18,Headache,AstraZeneca
+Brazil,654849,43122,505828,105899,193,4,143,Americas,1,AB,AB,Lungs,36-50,"Loss of taste, Fever",AstraZeneca
+Brazil,494746,23044,82228,389474,192,13,122,Eastern Mediterranean,17,B,AB,Lungs,19-35,Headache,J&J
+UK,41006,659,12709,27638,219,18,141,Western Pacific,39,A,O,Brain,0-18,"Fever, Headache",AstraZeneca
+Mexico,514906,9731,377131,128044,850,82,801,Europe,33,A,AB,Heart,51-65,"Fatigue, Headache",Sputnik V
+UK,829024,78479,241713,508832,663,27,415,South-East Asia,93,B,O,Kidney,19-35,"Breathlessness, Loss of taste, Headache",Sputnik V
+Italy,449681,24603,182568,242510,223,16,93,Europe,55,B,A,Liver,51-65,"Headache, Breathlessness, Fever",Pfizer
+Brazil,724524,17397,272982,434145,688,14,535,South-East Asia,63,O,B,Brain,0-18,"Fatigue, Headache, Breathlessness",Pfizer
+UK,70122,1059,3322,65741,8,0,6,Africa,8,A,AB,Heart,19-35,"Fatigue, Loss of taste",Pfizer
+Germany,236909,15949,82547,138413,896,26,514,Europe,85,B,A,Lungs,66+,Fatigue,Moderna
+Russia,771797,43709,634993,93095,400,2,356,South-East Asia,60,B,B,Liver,36-50,"Loss of taste, Cough",Sputnik V
+France,481509,34629,243082,203798,216,12,89,Africa,89,AB,B,Heart,19-35,"Fever, Cough",J&J
+UK,19219,1088,8373,9758,171,17,149,South-East Asia,26,AB,A,Brain,19-35,"Cough, Breathlessness",J&J
+Italy,569933,47009,223547,299377,734,18,470,Eastern Mediterranean,51,A,AB,Brain,66+,"Breathlessness, Fever",Pfizer
+Italy,254552,9455,80217,164880,19,0,16,Africa,33,AB,A,Lungs,19-35,Fatigue,J&J
+Mexico,537742,18558,270989,248195,881,2,728,Americas,58,AB,B,Brain,66+,"Headache, Fever, Fatigue",Moderna
+Germany,322462,21297,46502,254663,617,42,110,Western Pacific,61,A,B,Heart,66+,Fever,AstraZeneca
+Spain,665121,47302,102626,515193,657,54,353,Eastern Mediterranean,29,A,O,Heart,51-65,Fever,Pfizer
+Russia,899954,63981,381607,454366,657,50,646,Africa,94,AB,A,Lungs,19-35,"Fever, Fatigue, Breathlessness",Sputnik V
+USA,133774,12485,70478,50811,790,10,201,Europe,39,A,O,Heart,36-50,Headache,AstraZeneca
+Italy,113541,1982,108845,2714,938,74,563,Africa,18,O,A,Heart,36-50,"Headache, Breathlessness",AstraZeneca
+Russia,11974,1106,4214,6654,231,4,200,Western Pacific,76,AB,O,Kidney,51-65,"Fatigue, Loss of taste, Breathlessness",Moderna
+USA,577169,16515,188910,371744,441,1,292,Eastern Mediterranean,23,B,AB,Heart,66+,Headache,J&J
+Germany,253715,15188,87664,150863,606,54,298,Americas,100,O,O,Lungs,0-18,"Headache, Loss of taste, Fever",AstraZeneca
+UK,339942,22193,127247,190502,676,23,320,South-East Asia,36,AB,O,Brain,0-18,Fatigue,AstraZeneca
+India,852707,1330,236510,614867,641,20,498,Africa,46,O,B,Brain,0-18,"Cough, Headache",Sputnik V
+Spain,177797,1328,98616,77853,715,2,115,South-East Asia,13,AB,O,Heart,0-18,"Cough, Headache, Breathlessness",Sputnik V
+Germany,329335,3386,148705,177244,553,21,383,Eastern Mediterranean,40,B,AB,Lungs,66+,"Fatigue, Cough, Loss of taste",Moderna
+Spain,66517,3856,42956,19705,886,12,379,South-East Asia,88,O,O,Kidney,66+,"Headache, Cough",J&J
+Mexico,16189,51,11766,4372,956,34,246,Africa,8,B,B,Liver,36-50,"Breathlessness, Loss of taste",Moderna
+Mexico,163662,11222,87908,64532,681,60,594,South-East Asia,24,O,B,Lungs,51-65,Cough,J&J
+France,667199,26856,277307,363036,146,1,12,South-East Asia,100,B,B,Brain,36-50,Headache,AstraZeneca
+Mexico,942613,6362,469958,466293,729,38,467,Western Pacific,38,B,O,Lungs,51-65,"Cough, Fever",Pfizer
+Spain,552954,39898,230560,282496,917,16,687,Americas,71,A,AB,Brain,66+,Loss of taste,Pfizer
+Brazil,300634,941,97818,201875,650,65,281,Eastern Mediterranean,48,A,A,Liver,0-18,Fever,Pfizer
+Russia,762995,6378,371832,384785,444,26,196,Europe,98,A,AB,Liver,36-50,"Breathlessness, Loss of taste, Headache",Moderna
+Spain,19003,366,5170,13467,427,40,147,Americas,40,A,O,Lungs,66+,"Loss of taste, Breathlessness",Sputnik V
+France,101017,4906,40385,55726,246,19,179,Europe,19,O,AB,Kidney,19-35,"Fatigue, Headache",Pfizer
+Spain,206531,8363,17652,180516,371,0,290,Eastern Mediterranean,74,O,AB,Liver,51-65,Loss of taste,AstraZeneca
+France,152253,10509,49694,92050,493,25,218,South-East Asia,58,B,B,Kidney,51-65,Cough,Moderna
+Spain,1409,22,736,651,506,49,303,Americas,83,B,B,Liver,66+,"Fatigue, Cough",AstraZeneca
+Italy,34790,956,21285,12549,123,8,90,Africa,12,B,O,Kidney,66+,"Fever, Cough, Loss of taste",Pfizer
+Italy,523489,19771,356524,147194,674,39,159,Eastern Mediterranean,49,AB,A,Lungs,66+,Cough,Sputnik V
+USA,426024,29188,233024,163812,359,1,254,South-East Asia,0,O,B,Brain,36-50,"Breathlessness, Fever, Fatigue",AstraZeneca
+Germany,192208,611,101071,90526,753,27,349,Americas,31,B,AB,Heart,66+,Headache,Sputnik V
+India,762196,12889,432880,316427,681,27,658,Europe,25,O,AB,Liver,36-50,"Loss of taste, Breathlessness, Fever",Sputnik V
+Germany,823474,11319,719350,92805,76,3,61,Americas,15,AB,B,Heart,0-18,"Cough, Fatigue",Moderna
+Italy,873909,11214,314775,547920,680,59,456,Eastern Mediterranean,8,O,B,Brain,66+,"Headache, Loss of taste",Moderna
+Germany,848185,16738,724312,107135,36,0,8,South-East Asia,11,AB,B,Lungs,66+,Breathlessness,AstraZeneca
+France,129624,1070,37669,90885,224,19,86,Americas,65,O,B,Heart,0-18,Headache,Pfizer
+Russia,806174,62751,681605,61818,845,6,765,Western Pacific,53,O,A,Brain,51-65,"Loss of taste, Fever",J&J
+Germany,891209,64295,309838,517076,859,23,347,Western Pacific,19,B,A,Heart,66+,"Fatigue, Breathlessness, Loss of taste",Moderna
+Italy,544343,4315,225616,314412,508,35,293,Eastern Mediterranean,70,O,B,Kidney,0-18,"Fatigue, Loss of taste, Headache",Sputnik V
+Russia,380244,18822,213282,148140,822,38,541,Americas,90,A,O,Brain,0-18,"Fatigue, Loss of taste",Pfizer
+Russia,466065,42520,304059,119486,844,61,659,Eastern Mediterranean,8,O,AB,Brain,66+,Headache,Sputnik V
+Spain,67727,5078,22372,40277,22,1,1,Western Pacific,89,AB,AB,Brain,0-18,"Loss of taste, Headache, Fatigue",AstraZeneca
+Germany,446045,31518,165264,249263,157,9,93,Africa,65,B,A,Brain,51-65,Cough,J&J
+Russia,701825,14878,78613,608334,696,29,115,Eastern Mediterranean,53,B,AB,Kidney,36-50,"Fever, Loss of taste",AstraZeneca
+Spain,683685,65464,23675,594546,216,7,156,Eastern Mediterranean,13,AB,O,Heart,0-18,"Fatigue, Loss of taste",Pfizer
+Germany,444720,15515,155805,273400,597,24,381,South-East Asia,48,A,O,Liver,0-18,"Fatigue, Fever, Cough",AstraZeneca
+Spain,57999,4684,2245,51070,898,11,430,Europe,79,AB,AB,Heart,36-50,"Cough, Breathlessness",Pfizer
+Germany,90469,6868,8246,75355,41,2,29,Western Pacific,51,B,B,Kidney,0-18,"Fatigue, Headache",Moderna
+India,939695,62997,736155,140543,812,43,569,Americas,72,A,AB,Brain,0-18,"Cough, Loss of taste",Pfizer
+UK,898172,72664,530260,295248,414,21,348,Eastern Mediterranean,70,A,AB,Lungs,19-35,"Cough, Headache",AstraZeneca
+Russia,74225,3798,61509,8918,507,2,86,Americas,15,AB,A,Kidney,51-65,"Breathlessness, Headache",J&J
+Mexico,521760,34270,128272,359218,325,13,109,Americas,87,B,A,Kidney,36-50,"Cough, Fever",Pfizer
+France,685959,15080,45381,625498,848,1,396,Europe,43,O,O,Brain,36-50,"Loss of taste, Cough, Fever",J&J
+USA,689676,45668,108306,535702,114,2,105,Americas,47,O,AB,Lungs,66+,"Fatigue, Fever, Breathlessness",J&J
+India,661084,10408,274690,375986,703,59,249,Eastern Mediterranean,73,A,B,Lungs,0-18,Headache,J&J
+France,214218,18932,108586,86700,226,13,180,Western Pacific,57,A,O,Liver,66+,"Headache, Loss of taste",AstraZeneca
+Russia,733565,59550,322739,351276,964,35,877,Western Pacific,51,O,AB,Brain,66+,"Cough, Fever, Loss of taste",J&J
+UK,256079,23601,125246,107232,69,3,43,Africa,1,AB,B,Heart,0-18,"Fatigue, Headache, Fever",Sputnik V
+UK,468600,5115,313341,150144,702,47,168,Africa,21,AB,B,Heart,66+,Fatigue,AstraZeneca
+Spain,518891,3052,323535,192304,205,3,30,Americas,30,AB,O,Lungs,36-50,"Loss of taste, Fatigue, Cough",AstraZeneca
+Germany,242044,10897,94505,136642,619,53,255,Europe,19,A,B,Lungs,66+,"Fever, Headache",Moderna
+Italy,804124,1169,641026,161929,473,43,196,Africa,9,O,O,Brain,51-65,"Cough, Breathlessness",Sputnik V
+Italy,110652,50,45321,65281,955,31,270,Western Pacific,33,AB,O,Heart,0-18,Headache,Pfizer
+France,605487,59500,132442,413545,493,39,352,Eastern Mediterranean,62,B,O,Liver,0-18,Headache,Pfizer
+Brazil,988618,65511,813674,109433,244,4,68,Eastern Mediterranean,54,O,B,Brain,19-35,"Loss of taste, Fatigue, Headache",AstraZeneca
+Germany,649613,57026,283563,309024,346,7,177,South-East Asia,74,O,O,Lungs,19-35,Fever,J&J
+Italy,374880,18194,218334,138352,244,22,90,Eastern Mediterranean,99,AB,B,Liver,36-50,"Headache, Loss of taste, Cough",Sputnik V
+USA,733563,52786,277305,403472,430,3,337,Eastern Mediterranean,79,O,AB,Lungs,19-35,"Breathlessness, Fever, Headache",Sputnik V
+Italy,834312,53426,236570,544316,351,23,333,Western Pacific,16,A,B,Brain,36-50,"Fever, Cough",J&J
+Mexico,19469,873,1841,16755,63,4,24,Africa,9,O,A,Lungs,0-18,"Headache, Fatigue, Cough",AstraZeneca
+Germany,202970,256,28010,174704,798,63,674,South-East Asia,49,B,A,Lungs,0-18,"Headache, Fever, Loss of taste",AstraZeneca
+Germany,413842,4588,380729,28525,884,80,558,Western Pacific,27,AB,B,Lungs,51-65,"Fever, Breathlessness, Headache",Moderna
+UK,672798,52842,458727,161229,256,0,207,Western Pacific,41,O,O,Lungs,36-50,Cough,Sputnik V
+USA,208132,10692,125298,72142,693,53,338,Western Pacific,25,B,O,Liver,0-18,"Fever, Headache, Cough",Sputnik V
+Mexico,916849,29131,491085,396633,512,17,364,Africa,40,B,O,Brain,36-50,"Loss of taste, Cough, Fever",Moderna
+Mexico,808635,43004,324562,441069,560,26,82,Europe,36,O,AB,Lungs,36-50,Breathlessness,AstraZeneca
+Germany,182938,6620,124100,52218,408,30,321,Western Pacific,21,O,B,Lungs,19-35,"Loss of taste, Fatigue",Sputnik V
+USA,782673,48014,432675,301984,826,76,649,South-East Asia,16,B,AB,Liver,36-50,"Fatigue, Loss of taste, Headache",J&J
+USA,919952,4171,461199,454582,164,12,100,South-East Asia,92,O,A,Heart,51-65,"Loss of taste, Fatigue",Pfizer
+France,903256,2002,755741,145513,249,18,154,Africa,11,A,B,Liver,19-35,Breathlessness,Sputnik V
+Italy,629192,55550,441253,132389,506,48,505,South-East Asia,54,O,B,Liver,19-35,"Fatigue, Loss of taste, Headache",Pfizer
+Italy,361669,17303,248570,95796,714,21,408,Africa,20,B,B,Liver,66+,Fever,AstraZeneca
+USA,878395,51225,588148,239022,320,14,104,Americas,25,A,AB,Liver,51-65,"Loss of taste, Cough, Breathlessness",J&J
+Brazil,253627,24266,163308,66053,289,7,268,Western Pacific,71,B,O,Heart,66+,Cough,Sputnik V
+Italy,448564,16528,415241,16795,201,9,178,South-East Asia,21,AB,O,Liver,19-35,"Breathlessness, Fever, Headache",J&J
+UK,641834,31137,360147,250550,33,1,28,South-East Asia,8,B,B,Brain,66+,"Headache, Breathlessness",Moderna
+Brazil,588839,56995,356756,175088,589,28,570,Africa,27,O,O,Brain,36-50,"Cough, Fatigue, Headache",Sputnik V
+USA,507409,33421,456973,17015,909,22,419,Europe,4,A,AB,Kidney,36-50,Fever,Moderna
+Russia,508021,28017,287105,192899,193,17,21,Western Pacific,11,A,AB,Kidney,66+,"Headache, Fatigue, Fever",Sputnik V
+France,3140,241,203,2696,681,2,324,Africa,73,O,B,Liver,19-35,"Headache, Fever",AstraZeneca
+Mexico,465419,35359,177571,252489,649,2,252,South-East Asia,14,AB,AB,Heart,66+,"Loss of taste, Headache, Breathlessness",J&J
+Brazil,719720,47546,31751,640423,933,77,865,South-East Asia,66,B,B,Liver,51-65,Breathlessness,J&J
+USA,239185,18420,191458,29307,667,5,507,South-East Asia,67,A,B,Liver,66+,Headache,J&J
+Mexico,162138,10414,110523,41201,396,27,103,Africa,19,O,A,Heart,66+,"Fever, Headache, Breathlessness",Moderna
+France,188949,2018,82409,104522,752,8,444,Americas,12,O,B,Kidney,51-65,"Loss of taste, Fever, Breathlessness",AstraZeneca
+USA,270076,20565,48499,201012,692,19,100,Western Pacific,91,A,O,Lungs,66+,"Fatigue, Breathlessness",Sputnik V
+Brazil,575235,16472,377396,181367,566,35,543,Europe,65,AB,A,Lungs,0-18,"Breathlessness, Loss of taste",AstraZeneca
+Germany,151341,15010,34813,101518,345,8,82,Americas,91,B,A,Liver,51-65,"Loss of taste, Breathlessness, Fever",AstraZeneca
+India,297536,14947,79277,203312,276,17,261,Western Pacific,8,AB,AB,Kidney,36-50,Headache,AstraZeneca
+Brazil,589266,36161,543405,9700,899,18,265,Western Pacific,81,AB,B,Kidney,0-18,"Loss of taste, Fever",Moderna
+Spain,90224,5535,67190,17499,128,7,123,Americas,24,O,AB,Kidney,0-18,"Headache, Fever, Loss of taste",J&J
+Mexico,577168,14267,391334,171567,847,82,207,Europe,58,AB,A,Lungs,0-18,"Headache, Breathlessness, Loss of taste",J&J
+Italy,819861,53619,732673,33569,965,54,582,Europe,33,A,B,Kidney,51-65,"Loss of taste, Cough, Fever",AstraZeneca
+France,152238,1995,89153,61090,262,12,184,South-East Asia,56,B,A,Liver,19-35,"Fatigue, Loss of taste",Moderna
+Russia,712861,53394,657737,1730,888,28,347,Americas,86,B,A,Heart,66+,Cough,AstraZeneca
+India,276337,26291,113847,136199,197,0,125,South-East Asia,94,B,O,Liver,19-35,"Headache, Cough, Loss of taste",Pfizer
+Spain,660541,10634,356698,293209,491,35,266,Eastern Mediterranean,26,AB,O,Kidney,36-50,"Fever, Headache",Sputnik V
+USA,68459,3345,58081,7033,766,36,77,Eastern Mediterranean,61,A,A,Heart,66+,Loss of taste,AstraZeneca
+Mexico,184195,13078,12165,158952,637,60,368,Europe,0,AB,A,Lungs,66+,Loss of taste,Moderna
+Germany,455053,43360,398589,13104,795,74,226,Eastern Mediterranean,19,A,B,Heart,19-35,"Headache, Breathlessness",Moderna
+Brazil,343320,10266,308748,24306,587,30,245,Eastern Mediterranean,100,A,O,Brain,66+,"Cough, Fatigue",Sputnik V
+UK,131221,12075,79717,39429,680,44,126,Americas,5,A,AB,Heart,66+,"Headache, Fever",AstraZeneca
+Mexico,488686,18416,328231,142039,455,38,418,Eastern Mediterranean,75,A,B,Heart,19-35,Loss of taste,J&J
+Germany,942581,48269,500110,394202,594,1,43,Africa,19,AB,B,Brain,66+,Cough,J&J
+Germany,258236,22958,90907,144371,953,36,856,Europe,97,B,O,Brain,0-18,"Breathlessness, Fever, Loss of taste",Moderna
+Mexico,956004,31926,641390,282688,634,58,245,Western Pacific,1,B,O,Kidney,0-18,"Fever, Breathlessness, Loss of taste",Moderna
+USA,506616,7514,373924,125178,289,5,82,Eastern Mediterranean,42,B,AB,Lungs,51-65,"Headache, Loss of taste, Cough",Pfizer
+USA,689514,3133,22251,664130,153,14,26,Europe,98,AB,AB,Lungs,51-65,"Fatigue, Loss of taste",AstraZeneca
+UK,146311,4867,47182,94262,623,37,264,South-East Asia,46,O,A,Brain,36-50,"Fever, Breathlessness, Cough",Moderna
+Mexico,635184,30803,397856,206525,921,27,474,Eastern Mediterranean,39,O,B,Lungs,51-65,Cough,Pfizer
+USA,581763,41851,402053,137859,950,63,199,Africa,95,A,O,Brain,66+,"Fever, Cough, Loss of taste",Sputnik V
+UK,32553,947,13033,18573,923,88,301,Americas,34,O,B,Kidney,51-65,"Breathlessness, Fever, Loss of taste",Pfizer
+UK,469693,45544,86693,337456,985,9,284,Americas,80,O,A,Heart,51-65,"Breathlessness, Cough, Fatigue",AstraZeneca
+Italy,474325,21722,341559,111044,948,54,135,Americas,5,AB,A,Brain,51-65,"Fatigue, Cough",Sputnik V
+Mexico,785092,25079,107779,652234,855,72,482,Africa,100,O,A,Brain,51-65,"Loss of taste, Cough, Fever",Moderna
+France,235150,12272,160128,62750,201,6,11,South-East Asia,91,AB,O,Lungs,66+,"Loss of taste, Headache, Fatigue",Sputnik V
+Russia,25639,1531,8974,15134,342,20,240,Western Pacific,74,B,O,Liver,51-65,"Cough, Fatigue",Sputnik V
+USA,817238,69727,196432,551079,199,9,96,Americas,55,A,B,Heart,19-35,"Headache, Cough",Pfizer
+Italy,729982,48590,353834,327558,368,24,84,Western Pacific,72,O,B,Lungs,51-65,"Cough, Loss of taste, Headache",AstraZeneca
+Germany,699231,56740,404528,237963,388,3,228,South-East Asia,2,B,O,Kidney,66+,Fatigue,Moderna
+Russia,511585,49609,30290,431686,158,1,65,Europe,39,A,AB,Liver,19-35,"Cough, Headache, Fatigue",Sputnik V
+India,567262,31113,531796,4353,970,30,704,Europe,33,A,O,Liver,51-65,"Fever, Cough",Pfizer
+India,563921,27814,106445,429662,599,51,441,Europe,84,O,B,Lungs,66+,"Headache, Fever",AstraZeneca
+Italy,163059,7493,92600,62966,445,29,265,Western Pacific,87,B,AB,Kidney,66+,Cough,Sputnik V
+Brazil,216660,18932,164299,33429,809,59,117,Africa,77,B,B,Brain,0-18,"Headache, Fatigue",Moderna
+Mexico,87096,3537,42249,41310,723,43,30,Eastern Mediterranean,91,A,O,Heart,66+,Fever,Pfizer
+Mexico,117652,2417,54124,61111,14,0,0,Americas,83,A,O,Liver,66+,Fever,J&J
+Mexico,698994,13085,573922,111987,1,0,0,Eastern Mediterranean,73,A,AB,Kidney,51-65,"Cough, Loss of taste",J&J
+France,425617,29155,58457,338005,445,36,20,Africa,22,A,A,Kidney,0-18,"Fever, Cough, Loss of taste",Pfizer
+Italy,237029,12493,204841,19695,140,13,80,Europe,79,B,A,Heart,51-65,"Cough, Fever",Moderna
+USA,901529,51858,422208,427463,320,29,26,Americas,60,O,AB,Brain,19-35,Loss of taste,AstraZeneca
+Germany,890868,70713,396440,423715,238,4,8,Western Pacific,39,O,A,Liver,19-35,"Headache, Breathlessness",J&J
+UK,839817,20317,39159,780341,58,3,13,South-East Asia,69,B,B,Liver,36-50,"Cough, Loss of taste, Headache",Sputnik V
+Germany,322101,15626,184579,121896,778,64,697,Europe,68,B,O,Brain,66+,Loss of taste,Sputnik V
+Spain,646422,27238,282490,336694,839,70,699,Europe,2,A,O,Heart,0-18,"Cough, Headache, Fatigue",Moderna
+France,740233,27671,264727,447835,244,8,98,Eastern Mediterranean,18,A,AB,Liver,66+,Fatigue,Moderna
+India,674200,44060,25381,604759,341,18,219,Eastern Mediterranean,1,B,O,Lungs,66+,Fever,J&J
+India,657915,2480,614610,40825,678,13,208,Western Pacific,13,B,AB,Heart,66+,"Fever, Headache",Sputnik V
+Italy,674945,28523,578181,68241,12,1,6,Europe,17,O,O,Liver,0-18,"Cough, Headache",Moderna
+Italy,516946,116,230039,286791,96,3,61,Americas,92,A,A,Lungs,51-65,Breathlessness,Pfizer
+France,471708,39573,318203,113932,604,4,225,South-East Asia,11,B,AB,Brain,51-65,Headache,Moderna
+Italy,510378,44291,115960,350127,33,1,23,Americas,51,B,A,Liver,66+,"Loss of taste, Breathlessness",Sputnik V
+Italy,436655,32167,144992,259496,135,0,126,Europe,92,B,A,Kidney,19-35,Breathlessness,Pfizer
+France,784366,3197,54672,726497,124,5,108,Eastern Mediterranean,81,B,AB,Brain,51-65,"Loss of taste, Breathlessness",Pfizer
+Germany,308261,13408,216735,78118,670,53,67,South-East Asia,19,B,A,Heart,19-35,Breathlessness,AstraZeneca
+Italy,557869,28386,221459,308024,218,19,42,South-East Asia,34,B,B,Lungs,0-18,Cough,Moderna
+USA,343183,32395,67198,243590,427,7,121,Eastern Mediterranean,62,AB,B,Liver,51-65,"Headache, Fever",AstraZeneca
+Spain,982187,10789,198629,772769,490,20,136,Africa,79,A,B,Brain,66+,"Breathlessness, Cough, Loss of taste",Pfizer
+UK,122570,4373,77634,40563,113,1,38,Africa,58,O,O,Brain,0-18,Loss of taste,Pfizer
+UK,418705,25402,258854,134449,555,25,322,Eastern Mediterranean,1,AB,B,Brain,19-35,Fatigue,J&J
+UK,129147,3048,39904,86195,174,4,109,Eastern Mediterranean,73,AB,A,Kidney,36-50,"Loss of taste, Breathlessness",J&J
+Mexico,219564,14882,22945,181737,972,55,71,Eastern Mediterranean,54,B,AB,Heart,19-35,"Breathlessness, Fever",Pfizer
+UK,389507,7258,104192,278057,848,23,81,Eastern Mediterranean,85,O,A,Heart,66+,"Breathlessness, Cough, Fatigue",J&J
+Italy,927728,17313,820567,89848,802,24,409,Europe,86,B,A,Brain,0-18,Fatigue,Pfizer
+Brazil,457060,25957,64722,366381,756,20,559,Eastern Mediterranean,69,B,AB,Liver,0-18,"Loss of taste, Fever",Moderna
+France,849319,54829,416778,377712,364,10,62,Western Pacific,25,B,O,Brain,36-50,Breathlessness,J&J
+India,898951,70772,549058,279121,275,21,97,Europe,54,A,A,Lungs,0-18,"Cough, Breathlessness, Loss of taste",J&J
+USA,400989,34900,15480,350609,510,37,173,Eastern Mediterranean,22,A,A,Heart,36-50,"Loss of taste, Breathlessness",Moderna
+France,740787,37177,247568,456042,177,3,47,Africa,11,B,O,Brain,19-35,Fatigue,Pfizer
+Italy,222236,19133,48224,154879,478,5,0,Eastern Mediterranean,84,AB,AB,Brain,51-65,"Cough, Headache",Sputnik V
+Spain,620575,15823,346937,257815,13,1,13,Western Pacific,37,O,O,Brain,0-18,"Loss of taste, Breathlessness",Sputnik V
+France,748507,64053,182991,501463,789,54,676,Eastern Mediterranean,68,AB,AB,Kidney,66+,Fever,J&J
+Italy,398330,24196,91458,282676,651,17,156,Europe,99,B,AB,Lungs,36-50,Fatigue,J&J
+USA,192351,8446,102280,81625,904,35,820,South-East Asia,46,A,AB,Kidney,19-35,Breathlessness,Sputnik V
+Mexico,435540,28756,249318,157466,276,0,113,Eastern Mediterranean,80,B,A,Kidney,0-18,Cough,Moderna
+Russia,917840,63520,418587,435733,401,31,187,Africa,30,A,B,Lungs,19-35,Fatigue,Sputnik V
+Mexico,97158,9578,14993,72587,743,3,251,Americas,67,B,B,Heart,36-50,"Loss of taste, Headache, Fever",AstraZeneca
+India,834484,43591,405978,384915,910,24,547,Africa,58,AB,A,Brain,66+,"Breathlessness, Fever",Moderna
+Russia,498134,25785,18381,453968,47,2,13,Eastern Mediterranean,99,A,B,Liver,19-35,"Headache, Fever",Sputnik V
+India,828134,40172,22170,765792,852,47,487,Africa,69,AB,B,Lungs,0-18,"Fatigue, Cough",J&J
+Germany,289682,14384,117371,157927,314,9,6,Eastern Mediterranean,83,A,B,Liver,51-65,"Cough, Headache",Sputnik V
+USA,264174,15197,189971,59006,221,20,45,Africa,18,A,AB,Lungs,0-18,"Fever, Loss of taste",J&J
+France,997326,56655,583573,357098,603,28,529,South-East Asia,58,O,A,Liver,19-35,"Loss of taste, Headache, Cough",Pfizer
+Mexico,830267,49173,248529,532565,789,37,548,Western Pacific,58,O,A,Liver,36-50,"Headache, Breathlessness",Pfizer
+Brazil,29453,2400,17142,9911,234,11,234,Africa,63,A,A,Liver,66+,Fever,Sputnik V
+France,85087,1072,81157,2858,806,10,601,Africa,8,B,O,Brain,36-50,"Fever, Loss of taste, Breathlessness",Pfizer
+Italy,621490,5927,305652,309911,8,0,4,Africa,3,O,O,Lungs,0-18,"Loss of taste, Fatigue, Fever",J&J
+Mexico,587473,3942,93162,490369,299,22,201,Eastern Mediterranean,38,O,B,Liver,19-35,Breathlessness,Pfizer
+Italy,809074,17483,490930,300661,156,5,66,Europe,45,O,AB,Liver,19-35,"Cough, Fever, Headache",Moderna
+Mexico,568537,526,179607,388404,350,33,168,Eastern Mediterranean,73,A,A,Liver,66+,"Breathlessness, Fever, Fatigue",J&J
+Italy,997371,87337,55391,854643,709,37,255,Eastern Mediterranean,93,AB,A,Liver,51-65,"Cough, Fever",J&J
+UK,673432,1942,546316,125174,895,25,722,South-East Asia,62,A,A,Brain,0-18,"Loss of taste, Headache",Sputnik V
+USA,396163,23092,266844,106227,858,9,719,Americas,56,B,AB,Lungs,66+,"Fatigue, Cough, Fever",Pfizer
+USA,214841,21371,77906,115564,625,6,200,Africa,18,A,AB,Lungs,19-35,"Fatigue, Loss of taste",Sputnik V
+Italy,236844,4752,9811,222281,404,23,146,Europe,95,AB,AB,Heart,0-18,Loss of taste,Moderna
+India,443581,7924,187235,248422,787,76,264,Western Pacific,17,O,B,Liver,51-65,"Fever, Cough",Moderna
+Italy,523724,22630,466659,34435,151,5,139,Europe,13,AB,AB,Lungs,19-35,"Fatigue, Headache",Sputnik V
+India,804080,62023,82193,659864,732,36,449,Europe,16,A,AB,Brain,66+,Fever,Sputnik V
+Brazil,686071,40641,214114,431316,254,18,247,Western Pacific,62,O,B,Heart,0-18,"Breathlessness, Cough, Fever",J&J
+India,524138,25613,233689,264836,912,65,661,Africa,49,AB,A,Lungs,19-35,"Breathlessness, Loss of taste, Cough",Sputnik V
+Russia,140797,9794,59993,71010,80,3,70,South-East Asia,36,A,B,Heart,51-65,"Fatigue, Breathlessness, Loss of taste",J&J
+USA,543356,8645,502252,32459,872,81,21,Europe,69,B,B,Liver,51-65,"Loss of taste, Fatigue",Sputnik V
+Germany,41443,3691,12716,25036,243,24,187,Europe,33,B,AB,Brain,0-18,"Fever, Loss of taste, Breathlessness",J&J
+Spain,314514,6900,119395,188219,171,15,52,Africa,13,B,O,Kidney,19-35,Cough,Moderna
+Mexico,634401,8607,577813,47981,264,14,15,Africa,40,B,A,Brain,19-35,"Loss of taste, Fever, Cough",Moderna
+Russia,911884,77375,646380,188129,208,20,27,Europe,13,A,B,Liver,19-35,"Cough, Loss of taste",Moderna
+Mexico,743045,62695,383716,296634,446,11,255,Europe,21,AB,B,Heart,36-50,"Cough, Fever",J&J
+Spain,785252,50196,441494,293562,992,18,697,Eastern Mediterranean,94,A,O,Lungs,66+,Cough,Pfizer
+Mexico,116194,2495,7317,106382,273,16,64,Americas,13,O,O,Brain,19-35,Fatigue,Moderna
+Mexico,284238,23698,257832,2708,83,3,68,Eastern Mediterranean,52,AB,B,Lungs,0-18,"Loss of taste, Cough, Breathlessness",J&J
+USA,91396,6898,47810,36688,361,8,267,Eastern Mediterranean,29,AB,B,Brain,0-18,"Fatigue, Loss of taste, Fever",Moderna
+Spain,741716,42186,328873,370657,266,16,115,Eastern Mediterranean,80,O,O,Liver,36-50,Fatigue,AstraZeneca
+Mexico,887357,48208,384571,454578,580,0,389,South-East Asia,51,AB,A,Heart,0-18,"Cough, Breathlessness",Moderna
+Mexico,339258,7928,175088,156242,548,25,282,Europe,17,O,AB,Lungs,36-50,"Headache, Loss of taste, Fatigue",Pfizer
+Mexico,465334,8240,93059,364035,932,16,557,Africa,10,A,AB,Liver,36-50,Fever,Pfizer
+France,184356,17106,104841,62409,308,7,158,Africa,55,AB,AB,Lungs,0-18,"Loss of taste, Breathlessness, Fever",Pfizer
+Russia,788124,59164,44926,684034,362,36,199,Europe,99,O,B,Brain,51-65,"Headache, Fever",Pfizer
+Germany,598651,30358,246911,321382,945,66,575,Western Pacific,92,A,O,Kidney,51-65,"Loss of taste, Breathlessness",Sputnik V
+France,506929,43286,316051,147592,852,54,217,Western Pacific,47,B,A,Lungs,19-35,"Cough, Fatigue",Sputnik V
+Germany,740011,62797,154094,523120,904,45,887,Eastern Mediterranean,21,O,B,Lungs,0-18,Loss of taste,Pfizer
+Italy,94683,4656,38562,51465,209,4,51,Eastern Mediterranean,1,O,A,Lungs,66+,"Fever, Fatigue, Breathlessness",Pfizer
+Italy,269063,21840,620,246603,801,12,629,Eastern Mediterranean,83,A,A,Lungs,0-18,Breathlessness,J&J
+Italy,213557,16040,87387,110130,555,15,4,South-East Asia,99,AB,O,Lungs,66+,"Cough, Fever, Fatigue",J&J
+France,881887,45006,309710,527171,689,60,51,Americas,76,A,O,Heart,51-65,"Loss of taste, Fever",J&J
+Italy,93879,8006,14315,71558,73,6,26,Western Pacific,36,O,O,Lungs,19-35,"Breathlessness, Fatigue",Moderna
+Spain,471957,20791,26031,425135,303,13,104,Americas,82,B,O,Heart,0-18,Cough,AstraZeneca
+Italy,608065,36657,551086,20322,844,73,357,Western Pacific,81,B,A,Heart,66+,Headache,Pfizer
+Brazil,968206,25394,869855,72957,661,22,341,Europe,80,A,O,Lungs,19-35,"Cough, Fatigue, Loss of taste",Pfizer
+UK,455965,30461,376841,48663,584,6,16,South-East Asia,86,AB,A,Kidney,0-18,"Fever, Headache, Cough",J&J
